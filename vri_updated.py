@@ -24,20 +24,20 @@ def buscar_en_vriunap_corregido():
 
     # --- Lectura del archivo CSV ---
     try:
-        df = pd.read_csv('documentos.csv', dtype={'dni': str})
+        df = pd.read_csv('DNI Docentes.csv', dtype={'dni': str})
         dnis = df['dni'].tolist()
     except FileNotFoundError:
-        print("❌ Error: No se encontró el archivo 'documentos.csv'.")
+        print("Error: No se encontró el archivo 'DNI Docentes.csv'.")
         driver.quit()
         return
     except KeyError:
-        print("❌ Error: El archivo 'documentos.csv' debe tener una columna llamada 'dni'.")
+        print("Error: El archivo 'documentos.csv' debe tener una columna llamada 'dni'.")
         driver.quit()
         return
 
     resultados_finales = []
     
-    print(f"🚀 Iniciando la búsqueda en vriunap.pe para {len(dnis)} DNIs...")
+    print(f"Iniciando la búsqueda en vriunap.pe para {len(dnis)} DNIs...")
 
     for dni in dnis:
         try:
@@ -75,10 +75,19 @@ def buscar_en_vriunap_corregido():
                     tipo = celdas[2].text.strip()
                     codigo_vri = celdas[3].text.strip()
                     
+                    # Extraer enlace de verificación (botón azul)
+                    enlace_info_tag = fila.select_one('a.btn-info')
+                    enlace_verificacion = enlace_info_tag['href'] if enlace_info_tag else 'No disponible'
+                    
+                    # Extraer enlace adicional (botón naranja)
+                    enlace_warning_tag = fila.select_one('a.btn-warning')
+                    enlace_adicional = enlace_warning_tag['href'] if enlace_warning_tag else 'No disponible'
+
                     certificados_encontrados.append({
                         'nombre_curso': nombre_curso,
                         'tipo': tipo,
-                        'codigo': codigo_vri
+                        'codigo': codigo_vri,
+                        'enlace': enlace_verificacion
                     })
             
             if certificados_encontrados:
@@ -87,7 +96,7 @@ def buscar_en_vriunap_corregido():
                     'encontrado': True,
                     'certificados': certificados_encontrados
                 })
-                print(f"✅ DNI {dni}: Encontrado ({len(certificados_encontrados)} certificados).")
+                print(f"DNI {dni}: Encontrado ({len(certificados_encontrados)} certificados).")
             else:
                 raise Exception("Tabla encontrada pero vacía.")
 
@@ -97,7 +106,7 @@ def buscar_en_vriunap_corregido():
                 'encontrado': False,
                 'certificados': []
             })
-            print(f"ℹ️  DNI {dni}: No se encontraron certificados.")
+            print(f"DNI {dni}: No se encontraron certificados.")
 
     driver.quit()
 
@@ -106,7 +115,7 @@ def buscar_en_vriunap_corregido():
     with open(output_filename, 'w', encoding='utf-8') as f:
         json.dump(resultados_finales, f, ensure_ascii=False, indent=4)
 
-    print(f"\n🎉 ¡Proceso finalizado! Los resultados se han guardado en el archivo '{output_filename}'")
+    print(f"\n¡Proceso finalizado! Los resultados se han guardado en el archivo '{output_filename}'")
 
 if __name__ == "__main__":
-    buscar_en_vriunap_corregido()
+    buscar_en_vriunap_corregido() 

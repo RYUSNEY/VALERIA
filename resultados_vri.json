@@ -6,52 +6,62 @@
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-673"
+                "codigo": "E419-673",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-673"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-173"
+                "codigo": "E387-173",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-173"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
                 "tipo": "APROBADO",
-                "codigo": "E282-059"
+                "codigo": "E282-059",
+                "enlace": "http://vriunap.pe/cursos/verifica/E282-059"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-031"
+                "codigo": "E266-031",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-031"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-430"
+                "codigo": "E252-430",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-430"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-229"
+                "codigo": "E229-229",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-229"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-537"
+                "codigo": "E176-537",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-537"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-027"
+                "codigo": "E176-027",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-027"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-078"
+                "codigo": "E137-078",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-078"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-067"
+                "codigo": "E135-067",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-067"
             }
         ]
     },
@@ -62,92 +72,110 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-172"
+                "codigo": "E387-172",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-172"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-002"
+                "codigo": "E387-002",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-002"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E293-133"
+                "codigo": "E293-133",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-133"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-101"
+                "codigo": "E286-101",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-101"
             },
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E267-074"
+                "codigo": "E267-074",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-074"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-023"
+                "codigo": "E266-023",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-023"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-381"
+                "codigo": "E252-381",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-381"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-068"
+                "codigo": "E229-068",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-068"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-002"
+                "codigo": "E229-002",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-002"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-529"
+                "codigo": "E176-529",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-529"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-157"
+                "codigo": "E176-157",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-157"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-019"
+                "codigo": "E176-019",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-019"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-053"
+                "codigo": "E137-053",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-053"
             },
             {
                 "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E51-012"
+                "codigo": "E51-012",
+                "enlace": "http://vriunap.pe/cursos/verifica/E51-012"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-007"
+                "codigo": "E59-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-007"
             },
             {
                 "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
                 "tipo": "ASISTENTE",
-                "codigo": "SIGP-160"
+                "codigo": "SIGP-160",
+                "enlace": "http://vriunap.pe/cursos/verifica/SIGP-160"
             },
             {
                 "nombre_curso": "REDACCIÓN CIENTÍFICA EN PORTUGUES",
                 "tipo": "ASISTENTE",
-                "codigo": "BRA-006"
+                "codigo": "BRA-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/BRA-006"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-065"
+                "codigo": "HTO-065",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-065"
             }
         ]
     },
@@ -158,27 +186,32 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-004"
+                "codigo": "E387-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-004"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-080"
+                "codigo": "E266-080",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-080"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-555"
+                "codigo": "E252-555",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-555"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-230"
+                "codigo": "E229-230",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-230"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-143"
+                "codigo": "E229-143",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-143"
             }
         ]
     },
@@ -189,92 +222,110 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-174"
+                "codigo": "E387-174",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-174"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-328"
+                "codigo": "E336-328",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-328"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
                 "tipo": "APROBADO",
-                "codigo": "E335-011"
+                "codigo": "E335-011",
+                "enlace": "http://vriunap.pe/cursos/verifica/E335-011"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E294-039"
+                "codigo": "E294-039",
+                "enlace": "http://vriunap.pe/cursos/verifica/E294-039"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-030"
+                "codigo": "E293-030",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-030"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-045"
+                "codigo": "E296-045",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-045"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-093"
+                "codigo": "E286-093",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-093"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
                 "tipo": "APROBADO",
-                "codigo": "E282-039"
+                "codigo": "E282-039",
+                "enlace": "http://vriunap.pe/cursos/verifica/E282-039"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-022"
+                "codigo": "E266-022",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-022"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-424"
+                "codigo": "E252-424",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-424"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-209"
+                "codigo": "E229-209",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-209"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE",
-                "codigo": "E232-019"
+                "codigo": "E232-019",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-019"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-005"
+                "codigo": "E231-005",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-005"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-061"
+                "codigo": "E229-061",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-061"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-146"
+                "codigo": "E146-146",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-146"
             },
             {
                 "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
                 "tipo": "ASISTENTE",
-                "codigo": "E168-020"
+                "codigo": "E168-020",
+                "enlace": "http://vriunap.pe/cursos/verifica/E168-020"
             },
             {
                 "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
                 "tipo": "ASISTENTE",
-                "codigo": "E158-051"
+                "codigo": "E158-051",
+                "enlace": "http://vriunap.pe/cursos/verifica/E158-051"
             },
             {
                 "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
                 "tipo": "ASISTENTE",
-                "codigo": "SIGP-159"
+                "codigo": "SIGP-159",
+                "enlace": "http://vriunap.pe/cursos/verifica/SIGP-159"
             }
         ]
     },
@@ -285,37 +336,44 @@
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-347"
+                "codigo": "E336-347",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-347"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-045"
+                "codigo": "E293-045",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-045"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-069"
+                "codigo": "E296-069",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-069"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-029"
+                "codigo": "E266-029",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-029"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-380"
+                "codigo": "E252-380",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-380"
             },
             {
                 "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E240-020"
+                "codigo": "E240-020",
+                "enlace": "http://vriunap.pe/cursos/verifica/E240-020"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-148"
+                "codigo": "E231-148",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-148"
             }
         ]
     },
@@ -326,42 +384,50 @@
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
                 "tipo": "APROBADO",
-                "codigo": "E282-128"
+                "codigo": "E282-128",
+                "enlace": "http://vriunap.pe/cursos/verifica/E282-128"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-056"
+                "codigo": "E266-056",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-056"
             },
             {
                 "nombre_curso": "Presentación del portal de la Revista Semestre Económico (RSE) y Conferencia Magistral sobre la actualidad económica.",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E281-072"
+                "codigo": "E281-072",
+                "enlace": "http://vriunap.pe/cursos/verifica/E281-072"
             },
             {
                 "nombre_curso": "Presentación del portal de la Revista Semestre Económico (RSE) y Conferencia Magistral sobre la actualidad económica.",
                 "tipo": "ASISTENTE",
-                "codigo": "E281-021"
+                "codigo": "E281-021",
+                "enlace": "http://vriunap.pe/cursos/verifica/E281-021"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-389"
+                "codigo": "E252-389",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-389"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-301"
+                "codigo": "E231-301",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-301"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-146"
+                "codigo": "E175-146",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-146"
             },
             {
                 "nombre_curso": "CURSO : CAPACITACIÓN Y MODIFICACIÓN DEL REGLAMENTO DE LA PLATAFORMA DE LA PLATAFORMA PILAR Y SU DIFUSIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "E79-050"
+                "codigo": "E79-050",
+                "enlace": "http://vriunap.pe/cursos/verifica/E79-050"
             }
         ]
     },
@@ -372,22 +438,26 @@
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-120"
+                "codigo": "E296-120",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-120"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-223"
+                "codigo": "E286-223",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-223"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-693"
+                "codigo": "E252-693",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-693"
             },
             {
                 "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
                 "tipo": "ASISTENTE",
-                "codigo": "SIGP-106"
+                "codigo": "SIGP-106",
+                "enlace": "http://vriunap.pe/cursos/verifica/SIGP-106"
             }
         ]
     },
@@ -398,112 +468,134 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-175"
+                "codigo": "E387-175",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-175"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "PONENTE",
-                "codigo": "E362-025"
+                "codigo": "E362-025",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-025"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E362-021"
+                "codigo": "E362-021",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-021"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "ASISTENTE",
-                "codigo": "E362-004"
+                "codigo": "E362-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-004"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-164"
+                "codigo": "E336-164",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-164"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
                 "tipo": "APROBADO",
-                "codigo": "E335-049"
+                "codigo": "E335-049",
+                "enlace": "http://vriunap.pe/cursos/verifica/E335-049"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-167"
+                "codigo": "E296-167",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-167"
             },
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E267-181"
+                "codigo": "E267-181",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-181"
             },
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E267-179"
+                "codigo": "E267-179",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-179"
             },
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E267-179"
+                "codigo": "E267-179",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-179"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "PONENTE",
-                "codigo": "E266-093"
+                "codigo": "E266-093",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-093"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E266-088"
+                "codigo": "E266-088",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-088"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-058"
+                "codigo": "E266-058",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-058"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-404"
+                "codigo": "E252-404",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-404"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-218"
+                "codigo": "E231-218",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-218"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-207"
+                "codigo": "E229-207",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-207"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-204"
+                "codigo": "E229-204",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-204"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-531"
+                "codigo": "E176-531",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-531"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-520"
+                "codigo": "E176-520",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-520"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-021"
+                "codigo": "E176-021",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-021"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-246"
+                "codigo": "HTO-246",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-246"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-119"
+                "codigo": "PIL-119",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-119"
             }
         ]
     },
@@ -514,102 +606,122 @@
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-102"
+                "codigo": "E419-102",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-102"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-048"
+                "codigo": "E336-048",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-048"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E294-055"
+                "codigo": "E294-055",
+                "enlace": "http://vriunap.pe/cursos/verifica/E294-055"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-057"
+                "codigo": "E293-057",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-057"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-034"
+                "codigo": "E266-034",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-034"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-359"
+                "codigo": "E252-359",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-359"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-153"
+                "codigo": "E231-153",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-153"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-100"
+                "codigo": "E229-100",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-100"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
                 "tipo": "ASISTENTE",
-                "codigo": "E226-090"
+                "codigo": "E226-090",
+                "enlace": "http://vriunap.pe/cursos/verifica/E226-090"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-141"
+                "codigo": "E209-141",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-141"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-245"
+                "codigo": "E176-245",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-245"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-230"
+                "codigo": "E146-230",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-230"
             },
             {
                 "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
                 "tipo": "ASISTENTE",
-                "codigo": "E158-086"
+                "codigo": "E158-086",
+                "enlace": "http://vriunap.pe/cursos/verifica/E158-086"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-086"
+                "codigo": "E137-086",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-086"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-077"
+                "codigo": "E135-077",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-077"
             },
             {
                 "nombre_curso": "URKUND: Software de Detección de Similitud y Prevención del Plagio",
                 "tipo": "ASISTENTE",
-                "codigo": "E119-029"
+                "codigo": "E119-029",
+                "enlace": "http://vriunap.pe/cursos/verifica/E119-029"
             },
             {
                 "nombre_curso": "LA PROPIEDAD INTELECTUAL COMO HERRAMIENTA CLAVE PARA LA INNOVACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "E104-002"
+                "codigo": "E104-002",
+                "enlace": "http://vriunap.pe/cursos/verifica/E104-002"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E64-015"
+                "codigo": "E64-015",
+                "enlace": "http://vriunap.pe/cursos/verifica/E64-015"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-116"
+                "codigo": "PIL-116",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-116"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-116"
+                "codigo": "HTO-116",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-116"
             }
         ]
     },
@@ -620,42 +732,50 @@
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-057"
+                "codigo": "E266-057",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-057"
             },
             {
                 "nombre_curso": "Conferencia Ética de la Función Pública",
                 "tipo": "ASISTENTE",
-                "codigo": "E258-053"
+                "codigo": "E258-053",
+                "enlace": "http://vriunap.pe/cursos/verifica/E258-053"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-366"
+                "codigo": "E252-366",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-366"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "PONENTE",
-                "codigo": "E209-001"
+                "codigo": "E209-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-001"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-519"
+                "codigo": "E176-519",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-519"
             },
             {
                 "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E136-055"
+                "codigo": "E136-055",
+                "enlace": "http://vriunap.pe/cursos/verifica/E136-055"
             },
             {
                 "nombre_curso": "FORTALECIMIENTO DE CAPACIDADES EN EMPRENDIMIENTO EMPRESARIAL DEL VICERRECTORADO DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "E83-030"
+                "codigo": "E83-030",
+                "enlace": "http://vriunap.pe/cursos/verifica/E83-030"
             },
             {
                 "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
                 "tipo": "ASISTENTE",
-                "codigo": "E77-570"
+                "codigo": "E77-570",
+                "enlace": "http://vriunap.pe/cursos/verifica/E77-570"
             }
         ]
     },
@@ -666,167 +786,200 @@
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-006"
+                "codigo": "E266-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-006"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-382"
+                "codigo": "E252-382",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-382"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-208"
+                "codigo": "E229-208",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-208"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE",
-                "codigo": "E232-004"
+                "codigo": "E232-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-004"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-186"
+                "codigo": "E231-186",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-186"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-024"
+                "codigo": "E229-024",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-024"
             },
             {
                 "nombre_curso": "CURSO SISTEMA ANTIPLAGIO URKUND BY OURIGINAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E207-006"
+                "codigo": "E207-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/E207-006"
             },
             {
                 "nombre_curso": "Mecanismos de Retribución por\nservicios ecosistémicos para empresas de agua y saneamiento de la región Puno",
                 "tipo": "ASISTENTE",
-                "codigo": "E228-053"
+                "codigo": "E228-053",
+                "enlace": "http://vriunap.pe/cursos/verifica/E228-053"
             },
             {
                 "nombre_curso": "CAPACITACION SOBRE HERRAMIENTAS\nDIGITALES EN INVESTIGACION",
                 "tipo": "ASISTENTE",
-                "codigo": "E218-035"
+                "codigo": "E218-035",
+                "enlace": "http://vriunap.pe/cursos/verifica/E218-035"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
                 "tipo": "ASISTENTE",
-                "codigo": "E226-224"
+                "codigo": "E226-224",
+                "enlace": "http://vriunap.pe/cursos/verifica/E226-224"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: HERRAMIENTAS ON LINE PARA\nEL APRENDIZAJE SINCRÓNICO",
                 "tipo": "ASISTENTE",
-                "codigo": "E157-072"
+                "codigo": "E157-072",
+                "enlace": "http://vriunap.pe/cursos/verifica/E157-072"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: LA ENSEÑANZA VIRTUAL EN LA\nEDUCACIÓN UNIVERSITARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E156-101"
+                "codigo": "E156-101",
+                "enlace": "http://vriunap.pe/cursos/verifica/E156-101"
             },
             {
                 "nombre_curso": "Asistencia técnica para la identificación, categorización, priorización y evaluación de líneas de investigación en la UNA-Puno",
                 "tipo": "ASISTENTE",
-                "codigo": "E201-004"
+                "codigo": "E201-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E201-004"
             },
             {
                 "nombre_curso": "PROYECTOS DE INNOVACIÓN PARA PREVENIR EL CONTAGIO DEL COVID-19 (CORONAVIRUS) EN LA UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO",
                 "tipo": "ASISTENTE",
-                "codigo": "E193-010"
+                "codigo": "E193-010",
+                "enlace": "http://vriunap.pe/cursos/verifica/E193-010"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-030"
+                "codigo": "E209-030",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-030"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-530"
+                "codigo": "E176-530",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-530"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-020"
+                "codigo": "E176-020",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-020"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-044"
+                "codigo": "E146-044",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-044"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-012"
+                "codigo": "E137-012",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-012"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-015"
+                "codigo": "E135-015",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-015"
             },
             {
                 "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E51-013"
+                "codigo": "E51-013",
+                "enlace": "http://vriunap.pe/cursos/verifica/E51-013"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y DATA SCIENCE",
                 "tipo": "ASISTENTE",
-                "codigo": "E50-008"
+                "codigo": "E50-008",
+                "enlace": "http://vriunap.pe/cursos/verifica/E50-008"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-038"
+                "codigo": "E59-038",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-038"
             },
             {
                 "nombre_curso": "CURSO DE: SISTEMA DE INFORMACIÓN GEOGRÁFICA - ArcGIS",
                 "tipo": "ASISTENTE",
-                "codigo": "E60-029"
+                "codigo": "E60-029",
+                "enlace": "http://vriunap.pe/cursos/verifica/E60-029"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y DATA SCIENCE",
                 "tipo": "ASISTENTE",
-                "codigo": "E50-007"
+                "codigo": "E50-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E50-007"
             },
             {
                 "nombre_curso": "SEMINARIO DE CAPACITACIÓN SOFTWARE MATEMATICO",
                 "tipo": "ASISTENTE",
-                "codigo": "SEMT-66"
+                "codigo": "SEMT-66",
+                "enlace": "http://vriunap.pe/cursos/verifica/SEMT-66"
             },
             {
                 "nombre_curso": "I - SEMINARIO TALLER DE INICIACIÓN EN INVESTIGACIÓN EN INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "SIC-069"
+                "codigo": "SIC-069",
+                "enlace": "http://vriunap.pe/cursos/verifica/SIC-069"
             },
             {
                 "nombre_curso": "CURSO DE PROGRAMACION EN PYTHON APLICADO AL ANALISIS DE DATOS EN CIENCIA E INGENIERIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E58-012"
+                "codigo": "E58-012",
+                "enlace": "http://vriunap.pe/cursos/verifica/E58-012"
             },
             {
                 "nombre_curso": "PROGRAMACIÓN Y SIMULACION EN MATLAB Y SOFTWARE-R APLICADO A CASOS PRÁCTICOS EN CIENCIA E INGENIERÍA",
                 "tipo": "ASISTENTE",
-                "codigo": "E56-015"
+                "codigo": "E56-015",
+                "enlace": "http://vriunap.pe/cursos/verifica/E56-015"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN Y ESPECIALIZACION EN DSPACE",
                 "tipo": "ASISTENTE",
-                "codigo": "DSP-020"
+                "codigo": "DSP-020",
+                "enlace": "http://vriunap.pe/cursos/verifica/DSP-020"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-003"
+                "codigo": "E59-003",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-003"
             },
             {
                 "nombre_curso": "REDACCIÓN CIENTÍFICA EN PORTUGUES",
                 "tipo": "ASISTENTE",
-                "codigo": "BRA-004"
+                "codigo": "BRA-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/BRA-004"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-059"
+                "codigo": "HTO-059",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-059"
             }
         ]
     },
@@ -837,157 +990,188 @@
             {
                 "nombre_curso": "III ENCUENTRO DE EGRESADOS Y GRADUADOS DEL PROGRAMA DE ESTUDIO DE CIENCIAS FÍSICO MATEMÁTICAS: MATEMÁTICAS DE LA UNIVERSIDAD NACIONAL DEL ALTIPLANO -PUNO: “NETWORKING PARA PROFESIONALES DE MATEMÁTICAS”",
                 "tipo": "ASISTENTE",
-                "codigo": "E422-106"
+                "codigo": "E422-106",
+                "enlace": "http://vriunap.pe/cursos/verifica/E422-106"
             },
             {
                 "nombre_curso": "III ENCUENTRO DE EGRESADOS Y GRADUADOS DEL PROGRAMA DE ESTUDIO DE CIENCIAS FÍSICO MATEMÁTICAS: MATEMÁTICAS DE LA UNIVERSIDAD NACIONAL DEL ALTIPLANO -PUNO: “NETWORKING PARA PROFESIONALES DE MATEMÁTICAS”",
                 "tipo": "PONENTE",
-                "codigo": "E422-018"
+                "codigo": "E422-018",
+                "enlace": "http://vriunap.pe/cursos/verifica/E422-018"
             },
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-137"
+                "codigo": "E419-137",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-137"
             },
             {
                 "nombre_curso": "CAPACITACIÓN PARA LA FORMALIZACIÓN DE SEMILLEROS Y GRUPOS DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "E395-111"
+                "codigo": "E395-111",
+                "enlace": "http://vriunap.pe/cursos/verifica/E395-111"
             },
             {
                 "nombre_curso": "SEMINARIO INTERNACIONAL VINCULOS TRANSFORMADORES: ACADEMIA, INDUSTRIA Y SOCIEDAD",
                 "tipo": "ASISTENTE",
-                "codigo": "E392-109"
+                "codigo": "E392-109",
+                "enlace": "http://vriunap.pe/cursos/verifica/E392-109"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-176"
+                "codigo": "E387-176",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-176"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-006"
+                "codigo": "E387-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-006"
             },
             {
                 "nombre_curso": "I - CONGRESO DE INICIACIÓN CIENTIFICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E384-038"
+                "codigo": "E384-038",
+                "enlace": "http://vriunap.pe/cursos/verifica/E384-038"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "PONENTE",
-                "codigo": "E362-028"
+                "codigo": "E362-028",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-028"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E362-027"
+                "codigo": "E362-027",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-027"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E367-528"
+                "codigo": "E367-528",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-528"
             },
             {
                 "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
                 "tipo": "ASISTENTE",
-                "codigo": "E362-003"
+                "codigo": "E362-003",
+                "enlace": "http://vriunap.pe/cursos/verifica/E362-003"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ASISTENTE",
-                "codigo": "E367-478"
+                "codigo": "E367-478",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-478"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-128"
+                "codigo": "E336-128",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-128"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
                 "tipo": "APROBADO",
-                "codigo": "E282-112"
+                "codigo": "E282-112",
+                "enlace": "http://vriunap.pe/cursos/verifica/E282-112"
             },
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E267-018"
+                "codigo": "E267-018",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-018"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-085"
+                "codigo": "E266-085",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-085"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-391"
+                "codigo": "E252-391",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-391"
             },
             {
                 "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
                 "tipo": "ASISTENTE",
-                "codigo": "E243-176"
+                "codigo": "E243-176",
+                "enlace": "http://vriunap.pe/cursos/verifica/E243-176"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-123"
+                "codigo": "E231-123",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-123"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-184"
+                "codigo": "E229-184",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-184"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "PONENTE",
-                "codigo": "E229-007"
+                "codigo": "E229-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-007"
             },
             {
                 "nombre_curso": "II CURSO DE ACTUALIZACIÓN EN MATEMÁTICA Y FÍSICA: \"USO DEL MATLAB Y GEOGEBRA\"",
                 "tipo": "ASISTENTE",
-                "codigo": "E182-064"
+                "codigo": "E182-064",
+                "enlace": "http://vriunap.pe/cursos/verifica/E182-064"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-528"
+                "codigo": "E176-528",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-528"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-018"
+                "codigo": "E176-018",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-018"
             },
             {
                 "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
                 "tipo": "ASISTENTE",
-                "codigo": "E168-035"
+                "codigo": "E168-035",
+                "enlace": "http://vriunap.pe/cursos/verifica/E168-035"
             },
             {
                 "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
                 "tipo": "ASISTENTE",
-                "codigo": "E158-140"
+                "codigo": "E158-140",
+                "enlace": "http://vriunap.pe/cursos/verifica/E158-140"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-169"
+                "codigo": "E135-169",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-169"
             },
             {
                 "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E136-060"
+                "codigo": "E136-060",
+                "enlace": "http://vriunap.pe/cursos/verifica/E136-060"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-192"
+                "codigo": "E137-192",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-192"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E64-023"
+                "codigo": "E64-023",
+                "enlace": "http://vriunap.pe/cursos/verifica/E64-023"
             }
         ]
     },
@@ -998,52 +1182,62 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-178"
+                "codigo": "E387-178",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-178"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-012"
+                "codigo": "E266-012",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-012"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-436"
+                "codigo": "E252-436",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-436"
             },
             {
                 "nombre_curso": "II FERIA DE TRANSFERENCIA TECNOLÓGICA\nEN MATEMÁTICA Y FÍSICA 2021",
                 "tipo": "ASISTENTE",
-                "codigo": "E244-064"
+                "codigo": "E244-064",
+                "enlace": "http://vriunap.pe/cursos/verifica/E244-064"
             },
             {
                 "nombre_curso": "WEBINAR CIENTÍFICO: “ELABORACIÓN, REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS CIENTÍFICOS EN CIENCIAS NATURALES Y FORMALES”",
                 "tipo": "PONENTE",
-                "codigo": "E239-124"
+                "codigo": "E239-124",
+                "enlace": "http://vriunap.pe/cursos/verifica/E239-124"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-212"
+                "codigo": "E229-212",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-212"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-116"
+                "codigo": "E229-116",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-116"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-167"
+                "codigo": "E209-167",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-167"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-015"
+                "codigo": "E59-015",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-015"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-058"
+                "codigo": "HTO-058",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-058"
             }
         ]
     },
@@ -1054,62 +1248,74 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-177"
+                "codigo": "E387-177",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-177"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-079"
+                "codigo": "E266-079",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-079"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-395"
+                "codigo": "E252-395",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-395"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-211"
+                "codigo": "E229-211",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-211"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E232-027"
+                "codigo": "E232-027",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-027"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-194"
+                "codigo": "E231-194",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-194"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-102"
+                "codigo": "E229-102",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-102"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-234"
+                "codigo": "E146-234",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-234"
             },
             {
                 "nombre_curso": "CURSO TALLER DE CAPACITACIÓN EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS CIENTÍFICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E85-077"
+                "codigo": "E85-077",
+                "enlace": "http://vriunap.pe/cursos/verifica/E85-077"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-169"
+                "codigo": "PIL-169",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-169"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-253"
+                "codigo": "HTO-253",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-253"
             },
             {
                 "nombre_curso": "I - SEMINARIO TALLER DE INICIACIÓN EN INVESTIGACIÓN EN INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "SIC-056"
+                "codigo": "SIC-056",
+                "enlace": "http://vriunap.pe/cursos/verifica/SIC-056"
             }
         ]
     },
@@ -1120,37 +1326,44 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-183"
+                "codigo": "E387-183",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-183"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-005"
+                "codigo": "E387-005",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-005"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-042"
+                "codigo": "E266-042",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-042"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-433"
+                "codigo": "E252-433",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-433"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-216"
+                "codigo": "E229-216",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-216"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-152"
+                "codigo": "E229-152",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-152"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-378"
+                "codigo": "E176-378",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-378"
             }
         ]
     },
@@ -1161,147 +1374,176 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-171"
+                "codigo": "E387-171",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-171"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-001"
+                "codigo": "E387-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-001"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-051"
+                "codigo": "E266-051",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-051"
             },
             {
                 "nombre_curso": "Programación Competitiva, ¿Qué es? y ¿Qué ventajas tiene?",
                 "tipo": "ASISTENTE",
-                "codigo": "E233-007"
+                "codigo": "E233-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E233-007"
             },
             {
                 "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
                 "tipo": "ASISTENTE",
-                "codigo": "E243-235"
+                "codigo": "E243-235",
+                "enlace": "http://vriunap.pe/cursos/verifica/E243-235"
             },
             {
                 "nombre_curso": "CAPACITACIÓN EN MANEJO Y USO DE LIBRO E-BOOK ESSENTIAL PHYSICS Y SOFTWARE YENKA PARA DOCENTES DEL PROGRAMA DE ESTUDIOS DE FÍSICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E274-005"
+                "codigo": "E274-005",
+                "enlace": "http://vriunap.pe/cursos/verifica/E274-005"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-399"
+                "codigo": "E252-399",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-399"
             },
             {
                 "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
                 "tipo": "ASISTENTE",
-                "codigo": "E243-184"
+                "codigo": "E243-184",
+                "enlace": "http://vriunap.pe/cursos/verifica/E243-184"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE",
-                "codigo": "E232-051"
+                "codigo": "E232-051",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-051"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-216"
+                "codigo": "E231-216",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-216"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-192"
+                "codigo": "E229-192",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-192"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-001"
+                "codigo": "E229-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-001"
             },
             {
                 "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
                 "tipo": "ASISTENTE",
-                "codigo": "E168-043"
+                "codigo": "E168-043",
+                "enlace": "http://vriunap.pe/cursos/verifica/E168-043"
             },
             {
                 "nombre_curso": "MS PROJECT - Administración de Proyectos \"GRUPO A\"",
                 "tipo": "ASISTENTE",
-                "codigo": "E188-055"
+                "codigo": "E188-055",
+                "enlace": "http://vriunap.pe/cursos/verifica/E188-055"
             },
             {
                 "nombre_curso": "Gestión de Referencias con Mendeley y la\nUtilización del Software URKUND",
                 "tipo": "ASISTENTE",
-                "codigo": "E180-033"
+                "codigo": "E180-033",
+                "enlace": "http://vriunap.pe/cursos/verifica/E180-033"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-162"
+                "codigo": "E175-162",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-162"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-527"
+                "codigo": "E176-527",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-527"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-478"
+                "codigo": "E176-478",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-478"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-017"
+                "codigo": "E176-017",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-017"
             },
             {
                 "nombre_curso": "I - CURSO DE ACTUALIZACIÓN EN MATEMÁTICA Y FÍSICA (Virtual)",
                 "tipo": "ASISTENTE",
-                "codigo": "E166-212"
+                "codigo": "E166-212",
+                "enlace": "http://vriunap.pe/cursos/verifica/E166-212"
             },
             {
                 "nombre_curso": "Proceso de investigación científica en el marco de la Plataforma de Investigación Universitaria Integrada a la Labor Académica con Responsabilidad (PILAR)",
                 "tipo": "ASISTENTE",
-                "codigo": "E164-080"
+                "codigo": "E164-080",
+                "enlace": "http://vriunap.pe/cursos/verifica/E164-080"
             },
             {
                 "nombre_curso": "URKUND: Software de Detección de Similitud y Prevención del Plagio",
                 "tipo": "ASISTENTE",
-                "codigo": "E119-083"
+                "codigo": "E119-083",
+                "enlace": "http://vriunap.pe/cursos/verifica/E119-083"
             },
             {
                 "nombre_curso": "Machine Learning con Python aplicado al pronóstico de indicadores ambientales",
                 "tipo": "ASISTENTE",
-                "codigo": "E122-009"
+                "codigo": "E122-009",
+                "enlace": "http://vriunap.pe/cursos/verifica/E122-009"
             },
             {
                 "nombre_curso": "DISCUSIONES EPISTEMOLÓGICAS DE CONSTRUCCIÓN DISCIPLINARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E131-011"
+                "codigo": "E131-011",
+                "enlace": "http://vriunap.pe/cursos/verifica/E131-011"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-076"
+                "codigo": "E73-076",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-076"
             },
             {
                 "nombre_curso": "CURSO DE: SISTEMA DE INFORMACIÓN GEOGRÁFICA - ArcGIS",
                 "tipo": "ASISTENTE",
-                "codigo": "E107-045"
+                "codigo": "E107-045",
+                "enlace": "http://vriunap.pe/cursos/verifica/E107-045"
             },
             {
                 "nombre_curso": "CURSO DE INVESTIGACIÓN CIENTÍFICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E118-235"
+                "codigo": "E118-235",
+                "enlace": "http://vriunap.pe/cursos/verifica/E118-235"
             },
             {
                 "nombre_curso": "TALLER DE CAPACITACIÓN SOBRE USO DE SOFTWARE LEGAL CASE",
                 "tipo": "ASISTENTE",
-                "codigo": "E94-016"
+                "codigo": "E94-016",
+                "enlace": "http://vriunap.pe/cursos/verifica/E94-016"
             },
             {
                 "nombre_curso": "FOTOGRAMETRIA DIGITAL APLICANDO LOS UAV-DRONES EBEE X SENSEFLY",
                 "tipo": "ASISTENTE",
-                "codigo": "E90-194"
+                "codigo": "E90-194",
+                "enlace": "http://vriunap.pe/cursos/verifica/E90-194"
             }
         ]
     },
@@ -1312,102 +1554,122 @@
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-001"
+                "codigo": "E296-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-001"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-001"
+                "codigo": "E293-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-001"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-180"
+                "codigo": "E387-180",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-180"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E367-535"
+                "codigo": "E367-535",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-535"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-007"
+                "codigo": "E336-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-007"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-005"
+                "codigo": "E266-005",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-005"
             },
             {
                 "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
                 "tipo": "ASISTENTE",
-                "codigo": "E334-022"
+                "codigo": "E334-022",
+                "enlace": "http://vriunap.pe/cursos/verifica/E334-022"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-417"
+                "codigo": "E252-417",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-417"
             },
             {
                 "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E240-044"
+                "codigo": "E240-044",
+                "enlace": "http://vriunap.pe/cursos/verifica/E240-044"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-213"
+                "codigo": "E229-213",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-213"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-021"
+                "codigo": "E229-021",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-021"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
                 "tipo": "ASISTENTE",
-                "codigo": "E226-003"
+                "codigo": "E226-003",
+                "enlace": "http://vriunap.pe/cursos/verifica/E226-003"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-534"
+                "codigo": "E176-534",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-534"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-036"
+                "codigo": "E176-036",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-036"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-024"
+                "codigo": "E176-024",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-024"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-026"
+                "codigo": "E146-026",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-026"
             },
             {
                 "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E136-002"
+                "codigo": "E136-002",
+                "enlace": "http://vriunap.pe/cursos/verifica/E136-002"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-008"
+                "codigo": "E137-008",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-008"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-008"
+                "codigo": "E135-008",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-008"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-030"
+                "codigo": "E73-030",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-030"
             }
         ]
     },
@@ -1418,137 +1680,164 @@
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-375"
+                "codigo": "E419-375",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-375"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-181"
+                "codigo": "E387-181",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-181"
             },
             {
                 "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E360-057"
+                "codigo": "E360-057",
+                "enlace": "http://vriunap.pe/cursos/verifica/E360-057"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-117"
+                "codigo": "E336-117",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-117"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-094"
+                "codigo": "E293-094",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-094"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-139"
+                "codigo": "E296-139",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-139"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-259"
+                "codigo": "E286-259",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-259"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-048"
+                "codigo": "E266-048",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-048"
             },
             {
                 "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
                 "tipo": "ASISTENTE",
-                "codigo": "E334-004"
+                "codigo": "E334-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E334-004"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-425"
+                "codigo": "E252-425",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-425"
             },
             {
                 "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E240-012"
+                "codigo": "E240-012",
+                "enlace": "http://vriunap.pe/cursos/verifica/E240-012"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-214"
+                "codigo": "E229-214",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-214"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E232-097"
+                "codigo": "E232-097",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-097"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-173"
+                "codigo": "E229-173",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-173"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-259"
+                "codigo": "E209-259",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-259"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-532"
+                "codigo": "E176-532",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-532"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-437"
+                "codigo": "E176-437",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-437"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-022"
+                "codigo": "E176-022",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-022"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-406"
+                "codigo": "E146-406",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-406"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-125"
+                "codigo": "E175-125",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-125"
             },
             {
                 "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
                 "tipo": "ASISTENTE",
-                "codigo": "E158-135"
+                "codigo": "E158-135",
+                "enlace": "http://vriunap.pe/cursos/verifica/E158-135"
             },
             {
                 "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E136-042"
+                "codigo": "E136-042",
+                "enlace": "http://vriunap.pe/cursos/verifica/E136-042"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-149"
+                "codigo": "E137-149",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-149"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-133"
+                "codigo": "E135-133",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-133"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-038"
+                "codigo": "E73-038",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-038"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-017"
+                "codigo": "E59-017",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-017"
             },
             {
                 "nombre_curso": "Curso Taller : English Pronuntiation",
                 "tipo": "ASISTENTE",
-                "codigo": "E47-516"
+                "codigo": "E47-516",
+                "enlace": "http://vriunap.pe/cursos/verifica/E47-516"
             }
         ]
     },
@@ -1559,22 +1848,26 @@
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-072"
+                "codigo": "E266-072",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-072"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-393"
+                "codigo": "E252-393",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-393"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-217"
+                "codigo": "E229-217",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-217"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-460"
+                "codigo": "E176-460",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-460"
             }
         ]
     },
@@ -1585,42 +1878,50 @@
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-371"
+                "codigo": "E419-371",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-371"
             },
             {
                 "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E360-059"
+                "codigo": "E360-059",
+                "enlace": "http://vriunap.pe/cursos/verifica/E360-059"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-050"
+                "codigo": "E266-050",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-050"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-406"
+                "codigo": "E252-406",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-406"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-132"
+                "codigo": "E175-132",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-132"
             },
             {
                 "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
                 "tipo": "ASISTENTE",
-                "codigo": "E59-006"
+                "codigo": "E59-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/E59-006"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-106"
+                "codigo": "PIL-106",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-106"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-021"
+                "codigo": "HTO-021",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-021"
             }
         ]
     },
@@ -1631,87 +1932,104 @@
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-533"
+                "codigo": "E176-533",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-533"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-182"
+                "codigo": "E387-182",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-182"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E367-530"
+                "codigo": "E367-530",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-530"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
                 "tipo": "ASISTENTE",
-                "codigo": "E335-077"
+                "codigo": "E335-077",
+                "enlace": "http://vriunap.pe/cursos/verifica/E335-077"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E294-043"
+                "codigo": "E294-043",
+                "enlace": "http://vriunap.pe/cursos/verifica/E294-043"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-058"
+                "codigo": "E296-058",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-058"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-119"
+                "codigo": "E286-119",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-119"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-027"
+                "codigo": "E266-027",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-027"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-401"
+                "codigo": "E252-401",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-401"
             },
             {
                 "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
                 "tipo": "ASISTENTE",
-                "codigo": "E240-042"
+                "codigo": "E240-042",
+                "enlace": "http://vriunap.pe/cursos/verifica/E240-042"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-215"
+                "codigo": "E229-215",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-215"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-174"
+                "codigo": "E231-174",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-174"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-077"
+                "codigo": "E229-077",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-077"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-178"
+                "codigo": "E176-178",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-178"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-023"
+                "codigo": "E176-023",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-023"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-063"
+                "codigo": "E175-063",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-063"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-006"
+                "codigo": "E73-006",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-006"
             }
         ]
     },
@@ -1722,112 +2040,134 @@
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
                 "tipo": "PARTICIPANT",
-                "codigo": "E427-019"
+                "codigo": "E427-019",
+                "enlace": "http://vriunap.pe/cursos/verifica/E427-019"
             },
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-184"
+                "codigo": "E419-184",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-184"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-348"
+                "codigo": "E336-348",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-348"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-070"
+                "codigo": "E296-070",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-070"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-141"
+                "codigo": "E286-141",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-141"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-030"
+                "codigo": "E266-030",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-030"
             },
             {
                 "nombre_curso": "Conferencia Ética de la Función Pública",
                 "tipo": "ASISTENTE",
-                "codigo": "E258-019"
+                "codigo": "E258-019",
+                "enlace": "http://vriunap.pe/cursos/verifica/E258-019"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-370"
+                "codigo": "E252-370",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-370"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-149"
+                "codigo": "E231-149",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-149"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-088"
+                "codigo": "E229-088",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-088"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
                 "tipo": "ASISTENTE",
-                "codigo": "E226-070"
+                "codigo": "E226-070",
+                "enlace": "http://vriunap.pe/cursos/verifica/E226-070"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-126"
+                "codigo": "E209-126",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-126"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-205"
+                "codigo": "E176-205",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-205"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-206"
+                "codigo": "E146-206",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-206"
             },
             {
                 "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
                 "tipo": "ASISTENTE",
-                "codigo": "E175-076"
+                "codigo": "E175-076",
+                "enlace": "http://vriunap.pe/cursos/verifica/E175-076"
             },
             {
                 "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
                 "tipo": "ASISTENTE",
-                "codigo": "E158-079"
+                "codigo": "E158-079",
+                "enlace": "http://vriunap.pe/cursos/verifica/E158-079"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-075"
+                "codigo": "E137-075",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-075"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-065"
+                "codigo": "E135-065",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-065"
             },
             {
                 "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
                 "tipo": "ASISTENTE",
-                "codigo": "E77-231"
+                "codigo": "E77-231",
+                "enlace": "http://vriunap.pe/cursos/verifica/E77-231"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-066"
+                "codigo": "E73-066",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-066"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-122"
+                "codigo": "PIL-122",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-122"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-046"
+                "codigo": "HTO-046",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-046"
             }
         ]
     },
@@ -1838,47 +2178,56 @@
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
                 "tipo": "PARTICIPANT",
-                "codigo": "E427-033"
+                "codigo": "E427-033",
+                "enlace": "http://vriunap.pe/cursos/verifica/E427-033"
             },
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-193"
+                "codigo": "E419-193",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-193"
             },
             {
                 "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
                 "tipo": "ASISTENTE",
-                "codigo": "E336-062"
+                "codigo": "E336-062",
+                "enlace": "http://vriunap.pe/cursos/verifica/E336-062"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-070"
+                "codigo": "E293-070",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-070"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
                 "tipo": "APROBADO",
-                "codigo": "E286-183"
+                "codigo": "E286-183",
+                "enlace": "http://vriunap.pe/cursos/verifica/E286-183"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-036"
+                "codigo": "E266-036",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-036"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-413"
+                "codigo": "E252-413",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-413"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE",
-                "codigo": "E231-232"
+                "codigo": "E231-232",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-232"
             },
             {
                 "nombre_curso": "CURSO SISTEMA ANTIPLAGIO URKUND BY OURIGINAL",
                 "tipo": "ASISTENTE",
-                "codigo": "E207-004"
+                "codigo": "E207-004",
+                "enlace": "http://vriunap.pe/cursos/verifica/E207-004"
             }
         ]
     },
@@ -1889,107 +2238,128 @@
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
                 "tipo": "PARTICIPANT",
-                "codigo": "E427-031"
+                "codigo": "E427-031",
+                "enlace": "http://vriunap.pe/cursos/verifica/E427-031"
             },
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-101"
+                "codigo": "E419-101",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-101"
             },
             {
                 "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E360-039"
+                "codigo": "E360-039",
+                "enlace": "http://vriunap.pe/cursos/verifica/E360-039"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
                 "tipo": "APROBADO",
-                "codigo": "E335-019"
+                "codigo": "E335-019",
+                "enlace": "http://vriunap.pe/cursos/verifica/E335-019"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
                 "tipo": "APROBADO",
-                "codigo": "E293-054"
+                "codigo": "E293-054",
+                "enlace": "http://vriunap.pe/cursos/verifica/E293-054"
             },
             {
                 "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
                 "tipo": "APROBADO",
-                "codigo": "E296-082"
+                "codigo": "E296-082",
+                "enlace": "http://vriunap.pe/cursos/verifica/E296-082"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-032"
+                "codigo": "E266-032",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-032"
             },
             {
                 "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
                 "tipo": "ASISTENTE",
-                "codigo": "E334-056"
+                "codigo": "E334-056",
+                "enlace": "http://vriunap.pe/cursos/verifica/E334-056"
             },
             {
                 "nombre_curso": "Conferencia Ética de la Función Pública",
                 "tipo": "ASISTENTE",
-                "codigo": "E258-068"
+                "codigo": "E258-068",
+                "enlace": "http://vriunap.pe/cursos/verifica/E258-068"
             },
             {
                 "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
                 "tipo": "ASISTENTE",
-                "codigo": "E252-384"
+                "codigo": "E252-384",
+                "enlace": "http://vriunap.pe/cursos/verifica/E252-384"
             },
             {
                 "nombre_curso": "II FERIA DE TRANSFERENCIA TECNOLÓGICA\nEN MATEMÁTICA Y FÍSICA 2021",
                 "tipo": "ASISTENTE",
-                "codigo": "E244-103"
+                "codigo": "E244-103",
+                "enlace": "http://vriunap.pe/cursos/verifica/E244-103"
             },
             {
                 "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
                 "tipo": "ASISTENTE",
-                "codigo": "E243-087"
+                "codigo": "E243-087",
+                "enlace": "http://vriunap.pe/cursos/verifica/E243-087"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE",
-                "codigo": "E231-258"
+                "codigo": "E231-258",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-258"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-137"
+                "codigo": "E209-137",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-137"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-237"
+                "codigo": "E176-237",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-237"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-226"
+                "codigo": "E146-226",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-226"
             },
             {
                 "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
                 "tipo": "ASISTENTE",
-                "codigo": "E137-085"
+                "codigo": "E137-085",
+                "enlace": "http://vriunap.pe/cursos/verifica/E137-085"
             },
             {
                 "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
                 "tipo": "ASISTENTE",
-                "codigo": "E135-073"
+                "codigo": "E135-073",
+                "enlace": "http://vriunap.pe/cursos/verifica/E135-073"
             },
             {
                 "nombre_curso": "IV Foro Internacional Interuniversitario: Gestión Integral del Riesgo de Desastres (GIRD) y Previsión Climática (PC)",
                 "tipo": "ASISTENTE",
-                "codigo": "E91-0588"
+                "codigo": "E91-0588",
+                "enlace": "http://vriunap.pe/cursos/verifica/E91-0588"
             },
             {
                 "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
                 "tipo": "ASISTENTE",
-                "codigo": "PIL-090"
+                "codigo": "PIL-090",
+                "enlace": "http://vriunap.pe/cursos/verifica/PIL-090"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
                 "tipo": "ASISTENTE",
-                "codigo": "HTO-020"
+                "codigo": "HTO-020",
+                "enlace": "http://vriunap.pe/cursos/verifica/HTO-020"
             }
         ]
     },
@@ -2000,88 +2370,104 @@
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-177"
+                "codigo": "E419-177",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-177"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-187"
+                "codigo": "E387-187",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-187"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ASISTENTE",
-                "codigo": "E387-007"
+                "codigo": "E387-007",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-007"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E367-532"
+                "codigo": "E367-532",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-532"
             },
             {
                 "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
                 "tipo": "ASISTENTE",
-                "codigo": "E367-114"
+                "codigo": "E367-114",
+                "enlace": "http://vriunap.pe/cursos/verifica/E367-114"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-538"
+                "codigo": "E176-538",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-538"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-181"
+                "codigo": "E176-181",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-181"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-028"
+                "codigo": "E176-028",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-028"
             },
             {
                 "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
                 "tipo": "ASISTENTE",
-                "codigo": "E77-216"
+                "codigo": "E77-216",
+                "enlace": "http://vriunap.pe/cursos/verifica/E77-216"
             },
             {
                 "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
                 "tipo": "ASISTENTE",
-                "codigo": "E73-002"
+                "codigo": "E73-002",
+                "enlace": "http://vriunap.pe/cursos/verifica/E73-002"
             }
         ]
     },
     {
-        "dni": "01319070",
+        "dni": "01319070 ",
         "encontrado": true,
         "certificados": [
             {
                 "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
                 "tipo": "ASISTENTE",
-                "codigo": "E419-152"
+                "codigo": "E419-152",
+                "enlace": "http://vriunap.pe/cursos/verifica/E419-152"
             },
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-186"
+                "codigo": "E387-186",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-186"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-219"
+                "codigo": "E229-219",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-219"
             },
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E232-005"
+                "codigo": "E232-005",
+                "enlace": "http://vriunap.pe/cursos/verifica/E232-005"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-025"
+                "codigo": "E229-025",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-025"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-041"
+                "codigo": "E176-041",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-041"
             }
         ]
     },
@@ -2092,12 +2478,14 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-188"
+                "codigo": "E387-188",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-188"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E229-220"
+                "codigo": "E229-220",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-220"
             }
         ]
     },
@@ -2108,12 +2496,14 @@
             {
                 "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
                 "tipo": "ASISTENTE Y APROBADO",
-                "codigo": "E231-070"
+                "codigo": "E231-070",
+                "enlace": "http://vriunap.pe/cursos/verifica/E231-070"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-042"
+                "codigo": "E229-042",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-042"
             }
         ]
     },
@@ -2134,22 +2524,26 @@
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E176-535"
+                "codigo": "E176-535",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-535"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-243"
+                "codigo": "E176-243",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-243"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "PONENTE",
-                "codigo": "E176-025"
+                "codigo": "E176-025",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-025"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-227"
+                "codigo": "E146-227",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-227"
             }
         ]
     },
@@ -2160,12 +2554,13 @@
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-302"
+                "codigo": "E146-302",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-302"
             }
         ]
     },
     {
-        "dni": "70146904",
+        "dni": "70146904 ",
         "encontrado": false,
         "certificados": []
     },
@@ -2176,37 +2571,44 @@
             {
                 "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
                 "tipo": "ASISTENTE",
-                "codigo": "E267-083"
+                "codigo": "E267-083",
+                "enlace": "http://vriunap.pe/cursos/verifica/E267-083"
             },
             {
                 "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
                 "tipo": "ASISTENTE",
-                "codigo": "E266-064"
+                "codigo": "E266-064",
+                "enlace": "http://vriunap.pe/cursos/verifica/E266-064"
             },
             {
                 "nombre_curso": "Curso Taller de Validez y Confiabilidad de Instrumentos para la Investigación Científica",
                 "tipo": "ASISTENTE",
-                "codigo": "E271-011"
+                "codigo": "E271-011",
+                "enlace": "http://vriunap.pe/cursos/verifica/E271-011"
             },
             {
                 "nombre_curso": "Conferencia Ética de la Función Pública",
                 "tipo": "ASISTENTE",
-                "codigo": "E258-247"
+                "codigo": "E258-247",
+                "enlace": "http://vriunap.pe/cursos/verifica/E258-247"
             },
             {
                 "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
                 "tipo": "ASISTENTE",
-                "codigo": "E229-055"
+                "codigo": "E229-055",
+                "enlace": "http://vriunap.pe/cursos/verifica/E229-055"
             },
             {
                 "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
                 "tipo": "ASISTENTE",
-                "codigo": "E209-085"
+                "codigo": "E209-085",
+                "enlace": "http://vriunap.pe/cursos/verifica/E209-085"
             },
             {
                 "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
                 "tipo": "ASISTENTE",
-                "codigo": "E176-125"
+                "codigo": "E176-125",
+                "enlace": "http://vriunap.pe/cursos/verifica/E176-125"
             }
         ]
     },
@@ -2217,7 +2619,8 @@
             {
                 "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E387-184"
+                "codigo": "E387-184",
+                "enlace": "http://vriunap.pe/cursos/verifica/E387-184"
             }
         ]
     },
@@ -2228,22 +2631,26 @@
             {
                 "nombre_curso": "Conferencia Ética de la Función Pública",
                 "tipo": "ASISTENTE",
-                "codigo": "E258-186"
+                "codigo": "E258-186",
+                "enlace": "http://vriunap.pe/cursos/verifica/E258-186"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E146-559"
+                "codigo": "E146-559",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-559"
             },
             {
                 "nombre_curso": "Transparencia y Acceso a la Información",
                 "tipo": "ASISTENTE",
-                "codigo": "E146-001"
+                "codigo": "E146-001",
+                "enlace": "http://vriunap.pe/cursos/verifica/E146-001"
             },
             {
                 "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
                 "tipo": "ORGANIZADOR",
-                "codigo": "E51-018"
+                "codigo": "E51-018",
+                "enlace": "http://vriunap.pe/cursos/verifica/E51-018"
             }
         ]
     },

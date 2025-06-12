@@ -1,0 +1,2255 @@
+[
+    {
+        "dni": "01320448",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-673"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-173"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
+                "tipo": "APROBADO",
+                "codigo": "E282-059"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-031"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-430"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-229"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-537"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-027"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-078"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-067"
+            }
+        ]
+    },
+    {
+        "dni": "02441622",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-172"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-002"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E293-133"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-101"
+            },
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E267-074"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-023"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-381"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-068"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-002"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-529"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-157"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-019"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-053"
+            },
+            {
+                "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E51-012"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-007"
+            },
+            {
+                "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
+                "tipo": "ASISTENTE",
+                "codigo": "SIGP-160"
+            },
+            {
+                "nombre_curso": "REDACCIÓN CIENTÍFICA EN PORTUGUES",
+                "tipo": "ASISTENTE",
+                "codigo": "BRA-006"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-065"
+            }
+        ]
+    },
+    {
+        "dni": "01323028",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-004"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-080"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-555"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-230"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-143"
+            }
+        ]
+    },
+    {
+        "dni": "01325355",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-174"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-328"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
+                "tipo": "APROBADO",
+                "codigo": "E335-011"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E294-039"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-030"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-045"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-093"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
+                "tipo": "APROBADO",
+                "codigo": "E282-039"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-022"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-424"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-209"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE",
+                "codigo": "E232-019"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-005"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-061"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-146"
+            },
+            {
+                "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
+                "tipo": "ASISTENTE",
+                "codigo": "E168-020"
+            },
+            {
+                "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
+                "tipo": "ASISTENTE",
+                "codigo": "E158-051"
+            },
+            {
+                "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
+                "tipo": "ASISTENTE",
+                "codigo": "SIGP-159"
+            }
+        ]
+    },
+    {
+        "dni": "01546846",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-347"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-045"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-069"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-029"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-380"
+            },
+            {
+                "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E240-020"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-148"
+            }
+        ]
+    },
+    {
+        "dni": "01325478",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
+                "tipo": "APROBADO",
+                "codigo": "E282-128"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-056"
+            },
+            {
+                "nombre_curso": "Presentación del portal de la Revista Semestre Económico (RSE) y Conferencia Magistral sobre la actualidad económica.",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E281-072"
+            },
+            {
+                "nombre_curso": "Presentación del portal de la Revista Semestre Económico (RSE) y Conferencia Magistral sobre la actualidad económica.",
+                "tipo": "ASISTENTE",
+                "codigo": "E281-021"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-389"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-301"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-146"
+            },
+            {
+                "nombre_curso": "CURSO : CAPACITACIÓN Y MODIFICACIÓN DEL REGLAMENTO DE LA PLATAFORMA DE LA PLATAFORMA PILAR Y SU DIFUSIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "E79-050"
+            }
+        ]
+    },
+    {
+        "dni": "01231959",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-120"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-223"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-693"
+            },
+            {
+                "nombre_curso": "SIGMA PLOT - PAQUETE ESTADISTICO DE ANALISIS, GRAFICO Y VISUALIZACION: USO, MANEJO Y APLICACIONES",
+                "tipo": "ASISTENTE",
+                "codigo": "SIGP-106"
+            }
+        ]
+    },
+    {
+        "dni": "01326563",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-175"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "PONENTE",
+                "codigo": "E362-025"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E362-021"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "ASISTENTE",
+                "codigo": "E362-004"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-164"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
+                "tipo": "APROBADO",
+                "codigo": "E335-049"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-167"
+            },
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E267-181"
+            },
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E267-179"
+            },
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E267-179"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "PONENTE",
+                "codigo": "E266-093"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E266-088"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-058"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-404"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-218"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-207"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-204"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-531"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-520"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-021"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-246"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-119"
+            }
+        ]
+    },
+    {
+        "dni": "01326145",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-102"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-048"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E294-055"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-057"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-034"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-359"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-153"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-100"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
+                "tipo": "ASISTENTE",
+                "codigo": "E226-090"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-141"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-245"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-230"
+            },
+            {
+                "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
+                "tipo": "ASISTENTE",
+                "codigo": "E158-086"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-086"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-077"
+            },
+            {
+                "nombre_curso": "URKUND: Software de Detección de Similitud y Prevención del Plagio",
+                "tipo": "ASISTENTE",
+                "codigo": "E119-029"
+            },
+            {
+                "nombre_curso": "LA PROPIEDAD INTELECTUAL COMO HERRAMIENTA CLAVE PARA LA INNOVACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "E104-002"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E64-015"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-116"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-116"
+            }
+        ]
+    },
+    {
+        "dni": "41054835",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-057"
+            },
+            {
+                "nombre_curso": "Conferencia Ética de la Función Pública",
+                "tipo": "ASISTENTE",
+                "codigo": "E258-053"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-366"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "PONENTE",
+                "codigo": "E209-001"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-519"
+            },
+            {
+                "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E136-055"
+            },
+            {
+                "nombre_curso": "FORTALECIMIENTO DE CAPACIDADES EN EMPRENDIMIENTO EMPRESARIAL DEL VICERRECTORADO DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "E83-030"
+            },
+            {
+                "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
+                "tipo": "ASISTENTE",
+                "codigo": "E77-570"
+            }
+        ]
+    },
+    {
+        "dni": "80668082",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-006"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-382"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-208"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE",
+                "codigo": "E232-004"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-186"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-024"
+            },
+            {
+                "nombre_curso": "CURSO SISTEMA ANTIPLAGIO URKUND BY OURIGINAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E207-006"
+            },
+            {
+                "nombre_curso": "Mecanismos de Retribución por\nservicios ecosistémicos para empresas de agua y saneamiento de la región Puno",
+                "tipo": "ASISTENTE",
+                "codigo": "E228-053"
+            },
+            {
+                "nombre_curso": "CAPACITACION SOBRE HERRAMIENTAS\nDIGITALES EN INVESTIGACION",
+                "tipo": "ASISTENTE",
+                "codigo": "E218-035"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
+                "tipo": "ASISTENTE",
+                "codigo": "E226-224"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: HERRAMIENTAS ON LINE PARA\nEL APRENDIZAJE SINCRÓNICO",
+                "tipo": "ASISTENTE",
+                "codigo": "E157-072"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: LA ENSEÑANZA VIRTUAL EN LA\nEDUCACIÓN UNIVERSITARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E156-101"
+            },
+            {
+                "nombre_curso": "Asistencia técnica para la identificación, categorización, priorización y evaluación de líneas de investigación en la UNA-Puno",
+                "tipo": "ASISTENTE",
+                "codigo": "E201-004"
+            },
+            {
+                "nombre_curso": "PROYECTOS DE INNOVACIÓN PARA PREVENIR EL CONTAGIO DEL COVID-19 (CORONAVIRUS) EN LA UNIVERSIDAD NACIONAL DEL ALTIPLANO DE PUNO",
+                "tipo": "ASISTENTE",
+                "codigo": "E193-010"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-030"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-530"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-020"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-044"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-012"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-015"
+            },
+            {
+                "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E51-013"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y DATA SCIENCE",
+                "tipo": "ASISTENTE",
+                "codigo": "E50-008"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-038"
+            },
+            {
+                "nombre_curso": "CURSO DE: SISTEMA DE INFORMACIÓN GEOGRÁFICA - ArcGIS",
+                "tipo": "ASISTENTE",
+                "codigo": "E60-029"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN EN CIENCIAS DE LA COMPUTACIÓN Y DATA SCIENCE",
+                "tipo": "ASISTENTE",
+                "codigo": "E50-007"
+            },
+            {
+                "nombre_curso": "SEMINARIO DE CAPACITACIÓN SOFTWARE MATEMATICO",
+                "tipo": "ASISTENTE",
+                "codigo": "SEMT-66"
+            },
+            {
+                "nombre_curso": "I - SEMINARIO TALLER DE INICIACIÓN EN INVESTIGACIÓN EN INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "SIC-069"
+            },
+            {
+                "nombre_curso": "CURSO DE PROGRAMACION EN PYTHON APLICADO AL ANALISIS DE DATOS EN CIENCIA E INGENIERIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E58-012"
+            },
+            {
+                "nombre_curso": "PROGRAMACIÓN Y SIMULACION EN MATLAB Y SOFTWARE-R APLICADO A CASOS PRÁCTICOS EN CIENCIA E INGENIERÍA",
+                "tipo": "ASISTENTE",
+                "codigo": "E56-015"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN Y ESPECIALIZACION EN DSPACE",
+                "tipo": "ASISTENTE",
+                "codigo": "DSP-020"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-003"
+            },
+            {
+                "nombre_curso": "REDACCIÓN CIENTÍFICA EN PORTUGUES",
+                "tipo": "ASISTENTE",
+                "codigo": "BRA-004"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-059"
+            }
+        ]
+    },
+    {
+        "dni": "40308192",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III ENCUENTRO DE EGRESADOS Y GRADUADOS DEL PROGRAMA DE ESTUDIO DE CIENCIAS FÍSICO MATEMÁTICAS: MATEMÁTICAS DE LA UNIVERSIDAD NACIONAL DEL ALTIPLANO -PUNO: “NETWORKING PARA PROFESIONALES DE MATEMÁTICAS”",
+                "tipo": "ASISTENTE",
+                "codigo": "E422-106"
+            },
+            {
+                "nombre_curso": "III ENCUENTRO DE EGRESADOS Y GRADUADOS DEL PROGRAMA DE ESTUDIO DE CIENCIAS FÍSICO MATEMÁTICAS: MATEMÁTICAS DE LA UNIVERSIDAD NACIONAL DEL ALTIPLANO -PUNO: “NETWORKING PARA PROFESIONALES DE MATEMÁTICAS”",
+                "tipo": "PONENTE",
+                "codigo": "E422-018"
+            },
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-137"
+            },
+            {
+                "nombre_curso": "CAPACITACIÓN PARA LA FORMALIZACIÓN DE SEMILLEROS Y GRUPOS DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "E395-111"
+            },
+            {
+                "nombre_curso": "SEMINARIO INTERNACIONAL VINCULOS TRANSFORMADORES: ACADEMIA, INDUSTRIA Y SOCIEDAD",
+                "tipo": "ASISTENTE",
+                "codigo": "E392-109"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-176"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-006"
+            },
+            {
+                "nombre_curso": "I - CONGRESO DE INICIACIÓN CIENTIFICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E384-038"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "PONENTE",
+                "codigo": "E362-028"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E362-027"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E367-528"
+            },
+            {
+                "nombre_curso": "PROCEDIMIENTOS Y DISPOSICIONES PARA LA ELABORACION, APROBACION, EJECUCION, SUPERVISION Y EVALUACION DE LOS PROYECTOS E INFORMES DE INVESTIGACION EN LA FIMEES",
+                "tipo": "ASISTENTE",
+                "codigo": "E362-003"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ASISTENTE",
+                "codigo": "E367-478"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-128"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES INVESTIGADORES EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS",
+                "tipo": "APROBADO",
+                "codigo": "E282-112"
+            },
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E267-018"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-085"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-391"
+            },
+            {
+                "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
+                "tipo": "ASISTENTE",
+                "codigo": "E243-176"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-123"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-184"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "PONENTE",
+                "codigo": "E229-007"
+            },
+            {
+                "nombre_curso": "II CURSO DE ACTUALIZACIÓN EN MATEMÁTICA Y FÍSICA: \"USO DEL MATLAB Y GEOGEBRA\"",
+                "tipo": "ASISTENTE",
+                "codigo": "E182-064"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-528"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-018"
+            },
+            {
+                "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
+                "tipo": "ASISTENTE",
+                "codigo": "E168-035"
+            },
+            {
+                "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
+                "tipo": "ASISTENTE",
+                "codigo": "E158-140"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-169"
+            },
+            {
+                "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E136-060"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-192"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E64-023"
+            }
+        ]
+    },
+    {
+        "dni": "42262469",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-178"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-012"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-436"
+            },
+            {
+                "nombre_curso": "II FERIA DE TRANSFERENCIA TECNOLÓGICA\nEN MATEMÁTICA Y FÍSICA 2021",
+                "tipo": "ASISTENTE",
+                "codigo": "E244-064"
+            },
+            {
+                "nombre_curso": "WEBINAR CIENTÍFICO: “ELABORACIÓN, REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS CIENTÍFICOS EN CIENCIAS NATURALES Y FORMALES”",
+                "tipo": "PONENTE",
+                "codigo": "E239-124"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-212"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-116"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-167"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-015"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-058"
+            }
+        ]
+    },
+    {
+        "dni": "09040547",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-177"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-079"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-395"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-211"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E232-027"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-194"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-102"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-234"
+            },
+            {
+                "nombre_curso": "CURSO TALLER DE CAPACITACIÓN EN REDACCIÓN Y PUBLICACIÓN DE ARTÍCULOS CIENTÍFICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E85-077"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-169"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-253"
+            },
+            {
+                "nombre_curso": "I - SEMINARIO TALLER DE INICIACIÓN EN INVESTIGACIÓN EN INFORMÁTICA Y CIENCIAS DE LA COMPUTACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "SIC-056"
+            }
+        ]
+    },
+    {
+        "dni": "01322205",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-183"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-005"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-042"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-433"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-216"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-152"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-378"
+            }
+        ]
+    },
+    {
+        "dni": "80607800",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-171"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-001"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-051"
+            },
+            {
+                "nombre_curso": "Programación Competitiva, ¿Qué es? y ¿Qué ventajas tiene?",
+                "tipo": "ASISTENTE",
+                "codigo": "E233-007"
+            },
+            {
+                "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
+                "tipo": "ASISTENTE",
+                "codigo": "E243-235"
+            },
+            {
+                "nombre_curso": "CAPACITACIÓN EN MANEJO Y USO DE LIBRO E-BOOK ESSENTIAL PHYSICS Y SOFTWARE YENKA PARA DOCENTES DEL PROGRAMA DE ESTUDIOS DE FÍSICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E274-005"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-399"
+            },
+            {
+                "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
+                "tipo": "ASISTENTE",
+                "codigo": "E243-184"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE",
+                "codigo": "E232-051"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-216"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-192"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-001"
+            },
+            {
+                "nombre_curso": "CIENCIA, TECNOLOGIA, INNOVACIÓN, EMPRENDIMIENTO I+D+i+e",
+                "tipo": "ASISTENTE",
+                "codigo": "E168-043"
+            },
+            {
+                "nombre_curso": "MS PROJECT - Administración de Proyectos \"GRUPO A\"",
+                "tipo": "ASISTENTE",
+                "codigo": "E188-055"
+            },
+            {
+                "nombre_curso": "Gestión de Referencias con Mendeley y la\nUtilización del Software URKUND",
+                "tipo": "ASISTENTE",
+                "codigo": "E180-033"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-162"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-527"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-478"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-017"
+            },
+            {
+                "nombre_curso": "I - CURSO DE ACTUALIZACIÓN EN MATEMÁTICA Y FÍSICA (Virtual)",
+                "tipo": "ASISTENTE",
+                "codigo": "E166-212"
+            },
+            {
+                "nombre_curso": "Proceso de investigación científica en el marco de la Plataforma de Investigación Universitaria Integrada a la Labor Académica con Responsabilidad (PILAR)",
+                "tipo": "ASISTENTE",
+                "codigo": "E164-080"
+            },
+            {
+                "nombre_curso": "URKUND: Software de Detección de Similitud y Prevención del Plagio",
+                "tipo": "ASISTENTE",
+                "codigo": "E119-083"
+            },
+            {
+                "nombre_curso": "Machine Learning con Python aplicado al pronóstico de indicadores ambientales",
+                "tipo": "ASISTENTE",
+                "codigo": "E122-009"
+            },
+            {
+                "nombre_curso": "DISCUSIONES EPISTEMOLÓGICAS DE CONSTRUCCIÓN DISCIPLINARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E131-011"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-076"
+            },
+            {
+                "nombre_curso": "CURSO DE: SISTEMA DE INFORMACIÓN GEOGRÁFICA - ArcGIS",
+                "tipo": "ASISTENTE",
+                "codigo": "E107-045"
+            },
+            {
+                "nombre_curso": "CURSO DE INVESTIGACIÓN CIENTÍFICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E118-235"
+            },
+            {
+                "nombre_curso": "TALLER DE CAPACITACIÓN SOBRE USO DE SOFTWARE LEGAL CASE",
+                "tipo": "ASISTENTE",
+                "codigo": "E94-016"
+            },
+            {
+                "nombre_curso": "FOTOGRAMETRIA DIGITAL APLICANDO LOS UAV-DRONES EBEE X SENSEFLY",
+                "tipo": "ASISTENTE",
+                "codigo": "E90-194"
+            }
+        ]
+    },
+    {
+        "dni": "70398213",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-001"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-001"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-180"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E367-535"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-007"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-005"
+            },
+            {
+                "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
+                "tipo": "ASISTENTE",
+                "codigo": "E334-022"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-417"
+            },
+            {
+                "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E240-044"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-213"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-021"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
+                "tipo": "ASISTENTE",
+                "codigo": "E226-003"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-534"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-036"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-024"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-026"
+            },
+            {
+                "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E136-002"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-008"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-008"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-030"
+            }
+        ]
+    },
+    {
+        "dni": "45532021",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-375"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-181"
+            },
+            {
+                "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E360-057"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-117"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-094"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-139"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-259"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-048"
+            },
+            {
+                "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
+                "tipo": "ASISTENTE",
+                "codigo": "E334-004"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-425"
+            },
+            {
+                "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E240-012"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-214"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E232-097"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-173"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-259"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-532"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-437"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-022"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-406"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-125"
+            },
+            {
+                "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
+                "tipo": "ASISTENTE",
+                "codigo": "E158-135"
+            },
+            {
+                "nombre_curso": "HERRAMIENTAS LIBRES Y GRATUITAS PARA CLASES VIRTUALES EN TIEMPO REAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E136-042"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-149"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-133"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-038"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-017"
+            },
+            {
+                "nombre_curso": "Curso Taller : English Pronuntiation",
+                "tipo": "ASISTENTE",
+                "codigo": "E47-516"
+            }
+        ]
+    },
+    {
+        "dni": "42820400",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-072"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-393"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-217"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-460"
+            }
+        ]
+    },
+    {
+        "dni": "40270043",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-371"
+            },
+            {
+                "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E360-059"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-050"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-406"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-132"
+            },
+            {
+                "nombre_curso": "LAS FIRMAS DIGITALES EN EL PERÚ: ASPECTOS TÉCNICOS Y LEGALES",
+                "tipo": "ASISTENTE",
+                "codigo": "E59-006"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-106"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-021"
+            }
+        ]
+    },
+    {
+        "dni": "41268129",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-533"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-182"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E367-530"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
+                "tipo": "ASISTENTE",
+                "codigo": "E335-077"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y VISIBILIZACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E294-043"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-058"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-119"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-027"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-401"
+            },
+            {
+                "nombre_curso": "INC21: DIDACTICA PARA EL EMPRENDIEMIENTO E INNOVACION UNIVERSITARIA",
+                "tipo": "ASISTENTE",
+                "codigo": "E240-042"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-215"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-174"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-077"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-178"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-023"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-063"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-006"
+            }
+        ]
+    },
+    {
+        "dni": "40859887",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
+                "tipo": "PARTICIPANT",
+                "codigo": "E427-019"
+            },
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-184"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-348"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-070"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-141"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-030"
+            },
+            {
+                "nombre_curso": "Conferencia Ética de la Función Pública",
+                "tipo": "ASISTENTE",
+                "codigo": "E258-019"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-370"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-149"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-088"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL LATEX- NIVEL\nBÁSICO",
+                "tipo": "ASISTENTE",
+                "codigo": "E226-070"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-126"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-205"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-206"
+            },
+            {
+                "nombre_curso": "Seminario Internacional: Gestión de la Investigación, Desarrollo e Innovación",
+                "tipo": "ASISTENTE",
+                "codigo": "E175-076"
+            },
+            {
+                "nombre_curso": "Inducción al Emprendimiento: Aprende a emprender",
+                "tipo": "ASISTENTE",
+                "codigo": "E158-079"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-075"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-065"
+            },
+            {
+                "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
+                "tipo": "ASISTENTE",
+                "codigo": "E77-231"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-066"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-122"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-046"
+            }
+        ]
+    },
+    {
+        "dni": "02440587",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
+                "tipo": "PARTICIPANT",
+                "codigo": "E427-033"
+            },
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-193"
+            },
+            {
+                "nombre_curso": "METODOLOGIAS DIDACTICAS PARA LA INNOVACION EDUCATIVA",
+                "tipo": "ASISTENTE",
+                "codigo": "E336-062"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-070"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO:CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN REDACCIÓN CIENTÍFICA Y MANEJO DE CITADO DE FUENTES",
+                "tipo": "APROBADO",
+                "codigo": "E286-183"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-036"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-413"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE",
+                "codigo": "E231-232"
+            },
+            {
+                "nombre_curso": "CURSO SISTEMA ANTIPLAGIO URKUND BY OURIGINAL",
+                "tipo": "ASISTENTE",
+                "codigo": "E207-004"
+            }
+        ]
+    },
+    {
+        "dni": "80026530",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL EN INGLES: “SUPERANDO BARRERAS”",
+                "tipo": "PARTICIPANT",
+                "codigo": "E427-031"
+            },
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-101"
+            },
+            {
+                "nombre_curso": "DESARROLLO DE CAPACIDADES EMPRENDEDORAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E360-039"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO METODOLÓGICO DE LA INVESTIGACIÓN DE LA U",
+                "tipo": "APROBADO",
+                "codigo": "E335-019"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: CAPACITACION PARA EL FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN BIBLIOMETRÍA Y EVALUACIÓN CIENTÍFICA",
+                "tipo": "APROBADO",
+                "codigo": "E293-054"
+            },
+            {
+                "nombre_curso": "MINEDU22 - CURSO: FORTALECIMIENTO Y DESARROLLO DE COMPETENCIAS DE LOS DOCENTES EN DISEÑO TEORICO DE LA INVESTIGACION (Lógica de la investigación)",
+                "tipo": "APROBADO",
+                "codigo": "E296-082"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-032"
+            },
+            {
+                "nombre_curso": "2DO BOOTCAMP CREE CREA CRECE 2022",
+                "tipo": "ASISTENTE",
+                "codigo": "E334-056"
+            },
+            {
+                "nombre_curso": "Conferencia Ética de la Función Pública",
+                "tipo": "ASISTENTE",
+                "codigo": "E258-068"
+            },
+            {
+                "nombre_curso": "USO DEL SOFTWARE DE PREVENCION Y DETECCIÓN DE SIMILITUD TURNITIN",
+                "tipo": "ASISTENTE",
+                "codigo": "E252-384"
+            },
+            {
+                "nombre_curso": "II FERIA DE TRANSFERENCIA TECNOLÓGICA\nEN MATEMÁTICA Y FÍSICA 2021",
+                "tipo": "ASISTENTE",
+                "codigo": "E244-103"
+            },
+            {
+                "nombre_curso": "Introducción a la Programación Matemática y\nProgramación Difusa",
+                "tipo": "ASISTENTE",
+                "codigo": "E243-087"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE",
+                "codigo": "E231-258"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-137"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-237"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-226"
+            },
+            {
+                "nombre_curso": "USO DE HERRAMIENTAS VIRTUALES EN SESIONES DE CLASE APLICADO AL BUEN DESEMPEÑO DEL DOCENTE UNIVERSITARIO",
+                "tipo": "ASISTENTE",
+                "codigo": "E137-085"
+            },
+            {
+                "nombre_curso": "TECNOLOGIAS DE COMUNICACIÓN Y PLATAFORMAS TECNOLOGICAS PARA EL DICTADO DE CLASES VIRTUALES – ONLINE",
+                "tipo": "ASISTENTE",
+                "codigo": "E135-073"
+            },
+            {
+                "nombre_curso": "IV Foro Internacional Interuniversitario: Gestión Integral del Riesgo de Desastres (GIRD) y Previsión Climática (PC)",
+                "tipo": "ASISTENTE",
+                "codigo": "E91-0588"
+            },
+            {
+                "nombre_curso": "USO ADECUADO DE LA PLATAFORMA DE INVESTIGACIÓN PILAR",
+                "tipo": "ASISTENTE",
+                "codigo": "PIL-090"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN EN HERRAMIENTAS OFIMATICAS PARA LA PLATAFORMA DE INVESTIGACIÓN",
+                "tipo": "ASISTENTE",
+                "codigo": "HTO-020"
+            }
+        ]
+    },
+    {
+        "dni": "43201154",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-177"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-187"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ASISTENTE",
+                "codigo": "E387-007"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E367-532"
+            },
+            {
+                "nombre_curso": "I CONGRESO INTERNACIONAL DE INVESTIGACIÓN\nEN HOMENAJE AL DR. JULIO MAYTA QUISPE",
+                "tipo": "ASISTENTE",
+                "codigo": "E367-114"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-538"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-181"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-028"
+            },
+            {
+                "nombre_curso": "I - JORNADA EMPRENDE UNA 2018: Oportunidades y Retos para un Emprendedor",
+                "tipo": "ASISTENTE",
+                "codigo": "E77-216"
+            },
+            {
+                "nombre_curso": "CURSO TALLER : REGISTRO Y OBTENCIÓN DEL CODIGO ORCID PARA INVESTIGADORES",
+                "tipo": "ASISTENTE",
+                "codigo": "E73-002"
+            }
+        ]
+    },
+    {
+        "dni": "01319070",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "II CONGRESO INTERNACIONAL DE INVESTIGACIÓN”\nEN HOMENAJE AL DR. ERNESTO JAVIER CHURA YUPANQUI",
+                "tipo": "ASISTENTE",
+                "codigo": "E419-152"
+            },
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-186"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-219"
+            },
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte II",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E232-005"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-025"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-041"
+            }
+        ]
+    },
+    {
+        "dni": "42052959",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-188"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E229-220"
+            }
+        ]
+    },
+    {
+        "dni": "40718063",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "PROGRAMA DE FORMACIÓN CONTÍNUA: \"EXCELLENCE IN RESEARCH\" - Parte I",
+                "tipo": "ASISTENTE Y APROBADO",
+                "codigo": "E231-070"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-042"
+            }
+        ]
+    },
+    {
+        "dni": "01323080",
+        "encontrado": false,
+        "certificados": []
+    },
+    {
+        "dni": "41733422",
+        "encontrado": false,
+        "certificados": []
+    },
+    {
+        "dni": "46590508",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E176-535"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-243"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "PONENTE",
+                "codigo": "E176-025"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-227"
+            }
+        ]
+    },
+    {
+        "dni": "42324040",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-302"
+            }
+        ]
+    },
+    {
+        "dni": "70146904",
+        "encontrado": false,
+        "certificados": []
+    },
+    {
+        "dni": "46431369",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "COMO ELABORAR MI TESIS, PASOS BÁSICOS",
+                "tipo": "ASISTENTE",
+                "codigo": "E267-083"
+            },
+            {
+                "nombre_curso": "CURSO DE CAPACITACIÓN: REGLAMENTO Y USO DE TURNITIN PARA DOCENTES",
+                "tipo": "ASISTENTE",
+                "codigo": "E266-064"
+            },
+            {
+                "nombre_curso": "Curso Taller de Validez y Confiabilidad de Instrumentos para la Investigación Científica",
+                "tipo": "ASISTENTE",
+                "codigo": "E271-011"
+            },
+            {
+                "nombre_curso": "Conferencia Ética de la Función Pública",
+                "tipo": "ASISTENTE",
+                "codigo": "E258-247"
+            },
+            {
+                "nombre_curso": "CONGRESO PERUANO ARGENTINO BOLIVIANO DE INGENIERIA DE SISTEMAS E INFORMATICA",
+                "tipo": "ASISTENTE",
+                "codigo": "E229-055"
+            },
+            {
+                "nombre_curso": "CURSO VIRTUAL: APRENDIENDO A EMPRENDER",
+                "tipo": "ASISTENTE",
+                "codigo": "E209-085"
+            },
+            {
+                "nombre_curso": "I Congreso Internacional Peruano - Argentino de Ingeniería de Sistemas e Informática - COPAISI 2020",
+                "tipo": "ASISTENTE",
+                "codigo": "E176-125"
+            }
+        ]
+    },
+    {
+        "dni": "46150696",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "III - CONGRESO INTERNACIONAL DE INGENIERIA DE SISTEMAS",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E387-184"
+            }
+        ]
+    },
+    {
+        "dni": "72535241",
+        "encontrado": true,
+        "certificados": [
+            {
+                "nombre_curso": "Conferencia Ética de la Función Pública",
+                "tipo": "ASISTENTE",
+                "codigo": "E258-186"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E146-559"
+            },
+            {
+                "nombre_curso": "Transparencia y Acceso a la Información",
+                "tipo": "ASISTENTE",
+                "codigo": "E146-001"
+            },
+            {
+                "nombre_curso": "CONFERENCIA : \"RESULTADOS DEL 1ER AÑO DE OPERACIÓN DEL SATÉLITE PERÚSAT-1\"",
+                "tipo": "ORGANIZADOR",
+                "codigo": "E51-018"
+            }
+        ]
+    },
+    {
+        "dni": "01319466",
+        "encontrado": false,
+        "certificados": []
+    }
+]

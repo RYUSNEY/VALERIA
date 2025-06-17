@@ -10,7 +10,13 @@
     <div id="app">
         <v-app>
             <nav-bar></nav-bar>
-            <docentes-component></docentes-component>
+            <v-main class="bg-grey-lighten-4">
+                <div class="pa-4">
+                    <!-- Aquí montas el componente Vue que desees -->
+                    <docentes-component></docentes-component>
+                </div>
+            </v-main>
+            
         </v-app>
     </div>
 </body>

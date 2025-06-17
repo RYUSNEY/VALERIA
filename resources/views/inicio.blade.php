@@ -1,26 +1,9 @@
-<!DOCTYPE html>
-<html lang="es">
+@extends('layouts.app')
 
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Inicio</title>
-        @vite(['resources/js/app.js', 'resources/sass/app.scss'])
-    </head>
+@section('title', 'Inicio')
 
-    <body>
-        <div id="app">
-            <v-app>
-                <nav-bar></nav-bar>
-                <v-main class="bg-grey-lighten-4">
-                    <div class="px-4">
-                        <!-- Aquí montas el componente Vue que desees -->
-                        <inicio-component></inicio-component>
-                    </div>
-                </v-main>
-                
-            </v-app>
-        </div>
-    </body>
-
-</html>
+@section('content')
+    <div class="px-4 bg-grey-lighten-4" style="height: 100%;">
+        <inicio-component></inicio-component>
+    </div>
+@endsection

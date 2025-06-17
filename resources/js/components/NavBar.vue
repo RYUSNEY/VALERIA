@@ -1,22 +1,24 @@
 <template>
-  <v-app-bar app flat color="primary" class="px-4">
+  <v-app-bar
+    app
+    fixed
+    color="primary"
+    height="64"
+    class="px-4"
+  >
     <!-- Ícono hamburguesa en móvil -->
     <v-app-bar-nav-icon class="d-sm-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
     <!-- Logo + Nombre -->
     <v-toolbar-title class="d-flex align-center gap-2">
-      <!--v-img
-        src="/logo.png"
-        alt="Logo"
-        width="32"
-        height="32"
-        contain
-      ></v-img-->
-      <span class="font-weight-bold text-white">RUAPAZAP CERTIFICADOS</span>
+      <!-- Usa tu logo si deseas -->
+      <!-- <v-img src="/logo.png" alt="Logo" width="32" height="32" contain></v-img> -->
+      <span class="font-weight-bold text-white text-truncate">RUAPAZAP CERTIFICADOS</span>
     </v-toolbar-title>
 
-    <!-- Menú en escritorio -->
     <v-spacer></v-spacer>
+
+    <!-- Menú escritorio -->
     <div class="d-none d-sm-flex gap-4">
       <v-btn text class="text-white" href="/">Inicio</v-btn>
       <v-btn text class="text-white" href="/docentes">Docentes</v-btn>
@@ -26,7 +28,7 @@
     </div>
   </v-app-bar>
 
-  <!-- Drawer lateral en móvil -->
+  <!-- Drawer móvil -->
   <v-navigation-drawer
     v-model="drawer"
     temporary
@@ -50,10 +52,10 @@ const drawer = ref(false)
 </script>
 
 <style scoped>
-  .gap-2 {
-    gap: 0.5rem;
-  }
-  .gap-4 {
-    gap: 1rem;
-  }
+.gap-2 {
+  gap: 0.5rem;
+}
+.gap-4 {
+  gap: 1rem;
+}
 </style>

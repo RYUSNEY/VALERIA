@@ -11,8 +11,17 @@ class DocenteController extends Controller
 {
     public function index()
     {
-        $usuarios = Usuario::withCount(['certificadosVra', 'certificadosVri'])->get();
-        return response()->json($usuarios);
+        $docentes = Usuario::withCount([
+            'certificadosVra as certificados_vra_count',
+            'certificadosVri as certificados_vri_count',
+        ])
+        ->get()
+        ->sortByDesc(function ($docente) {
+            return $docente->certificados_vra_count + $docente->certificados_vri_count;
+        })
+        ->values(); // para resetear índices
+
+        return response()->json($docentes);
     }
 
     public function detalle(Request $request, $dni)
@@ -32,7 +41,11 @@ class DocenteController extends Controller
             if ($topico) $q->where('id_topico', $topico);
         }])->get();
 
-        return response()->json(['vri' => $vri, 'vra' => $vra]);
+        return response()->json([
+            'nombre_completo' => $usuario->nombres . ' ' . $usuario->ap_paterno,
+            'vri' => $vri,
+            'vra' => $vra
+        ]);
     }
 
     public function filtros()

@@ -10,10 +10,18 @@
     <v-app-bar-nav-icon class="d-sm-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
     <!-- Logo + Nombre -->
-    <v-toolbar-title class="d-flex align-center gap-2">
-      <!-- Usa tu logo si deseas -->
-      <!-- <v-img src="/logo.png" alt="Logo" width="32" height="32" contain></v-img> -->
-      <span class="font-weight-bold text-white text-truncate">RUAPAZAP CERTIFICADOS</span>
+    <v-toolbar-title class="pa-0 ma-0">
+      <div class="d-flex align-left justify-start ml-0">
+        <v-img
+          :src="logo"
+          alt="Logo"
+          width="32"
+          height="32"
+          class="mr-2"
+          contain
+        ></v-img>
+        <span class="font-weight-bold text-white text-truncate">VALERIA</span>
+      </div>
     </v-toolbar-title>
 
     <v-spacer></v-spacer>
@@ -45,13 +53,14 @@
 
 <script setup>
 import { ref } from 'vue'
+import logo from '@/img/logo.png'
 
 const drawer = ref(false)
 </script>
 
 <style scoped>
 .gap-2 {
-  gap: 0.5rem;
+  gap: 1rem;
 }
 .gap-4 {
   gap: 1rem;

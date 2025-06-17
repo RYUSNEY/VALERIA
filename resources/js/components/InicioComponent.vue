@@ -10,12 +10,11 @@
                         </v-avatar>
                         <div>
                             <div class="text-h5 font-weight-bold">¡Bienvenido/a a VALERIA!</div>
-                            <div class="text-subtitle-2 text-grey-darken-1">Tu espacio para la innovación educativa</div>
+                            <div class="text-subtitle-2 text-grey-darken-1">Verificación de Aprendizaje y Logros Educativos para la Ruta de la Innovación y Acreditación</div>
                         </div>
                     </div>
                     <v-divider class="mb-4"></v-divider>
                     <v-card-text class="text-body-1 mb-4">
-                        Verificación de Aprendizaje y Logros Educativos para la Ruta de la Innovación y Acreditación<br><br>
                         VALERIA es una plataforma desarrollada con el objetivo de brindar una visión clara y organizada del nivel de capacitación del cuerpo docente, permitiendo identificar rápidamente quiénes cuentan con certificaciones en áreas clave y quiénes aún no han participado en dichas formaciones.<br><br>
                         A través de filtros por año y tópico, gráficos estadísticos y listados detallados, esta herramienta facilita la toma de decisiones estratégicas en el proceso de acreditación institucional, promoviendo la mejora continua en la calidad educativa.<br><br>
                         Además, VALERIA permite reconocer a los docentes más activos en su desarrollo profesional y detectar oportunidades de capacitación para fortalecer las competencias del equipo académico.

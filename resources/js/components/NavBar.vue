@@ -4,27 +4,31 @@
     fixed
     color="primary"
     height="64"
-    class="px-4"
+    class="navbar-app-bar"
   >
     <!-- Ícono hamburguesa en móvil -->
     <v-app-bar-nav-icon class="d-sm-none" @click="drawer = !drawer"></v-app-bar-nav-icon>
 
     <!-- Logo + Nombre -->
-    <v-toolbar-title class="pa-0 ma-0">
-      <div class="d-flex align-left justify-start ml-0">
+    <v-toolbar-title class="pa-0 ma-0" style="min-width:0;">
+      <div class="d-flex align-center" style="gap: 6px;">
         <v-img
           :src="logo"
           alt="Logo"
           width="32"
           height="32"
-          class="mr-2"
           contain
         ></v-img>
         <span class="font-weight-bold text-white text-truncate">VALERIA</span>
       </div>
     </v-toolbar-title>
 
-    <v-spacer></v-spacer>
+    <!-- Espaciadores: cuatro en escritorio, uno en móvil -->
+    <v-spacer class="d-none d-sm-flex"></v-spacer>
+    <v-spacer class="d-none d-sm-flex"></v-spacer>
+    <v-spacer class="d-none d-sm-flex"></v-spacer>
+    <v-spacer class="d-none d-sm-flex"></v-spacer>
+    <v-spacer class="d-flex d-sm-none"></v-spacer>
 
     <!-- Menú escritorio -->
     <div class="d-none d-sm-flex gap-4">
@@ -59,8 +63,13 @@ const drawer = ref(false)
 </script>
 
 <style scoped>
-.gap-2 {
-  gap: 1rem;
+.navbar-app-bar {
+  padding-left: 0 !important;
+}
+@media (min-width: 600px) {
+  .navbar-app-bar {
+    padding-left: 24px !important;
+  }
 }
 .gap-4 {
   gap: 1rem;

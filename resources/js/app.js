@@ -4,21 +4,24 @@ import './bootstrap'
 import { createApp } from 'vue'
 import vuetify from './plugins/vuetify'
 
-// Componentes
-import DashboardComponent from './components/DashboardComponent.vue'
-import ExampleComponent from './components/ExampleComponent.vue'
-import NavBar from './components/NavBar.vue' // Importa tu nuevo navbar
+// Componentes Vue
+import NavBar from './components/NavBar.vue'
+import InicioComponent from './components/InicioComponent.vue'
+import DocentesComponent from './components/DocentesComponent.vue'
+import CursosComponent from './components/CursosComponent.vue'
+import TopicosComponent from './components/TopicosComponent.vue'
+import OtrosComponent from './components/OtrosComponent.vue'
 
-// Crear instancia principal
 const app = createApp({})
 
-// Registrar componentes globales
-app.component('dashboard-component', DashboardComponent)
-app.component('example-component', ExampleComponent)
+// Registrar como componentes globales
 app.component('nav-bar', NavBar)
+app.component('inicio-component', InicioComponent)
+app.component('docentes-component', DocentesComponent)
+app.component('cursos-component', CursosComponent)
+app.component('topicos-component', TopicosComponent)
+app.component('otros-component', OtrosComponent)
 
-// Usar Vuetify
 app.use(vuetify)
 
-// Montar en el DOM
 app.mount('#app')

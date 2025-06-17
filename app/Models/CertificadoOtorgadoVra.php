@@ -5,14 +5,14 @@ namespace App\Models;
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 
-class CertificadoOtorgadoVri extends Model
+class CertificadoOtorgadoVra extends Model
 {
-    protected $table = 'certificados_otorgados_vri';
+    protected $table = 'certificados_otorgados_vra';
     protected $primaryKey = 'id_cert';
     public $timestamps = false;
 
     public function curso()
     {
-        return $this->belongsTo(CursoVri::class, 'id_cursos_vri');
+        return $this->belongsTo(CursoVra::class, 'id_cursos_vra');
     }
 }

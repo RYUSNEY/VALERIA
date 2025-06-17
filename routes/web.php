@@ -3,18 +3,13 @@
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\DashboardController;
 
-Route::get('/', [DashboardController::class, 'index']);
-/*
-|--------------------------------------------------------------------------
-| Web Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register web routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "web" middleware group. Make something great!
-|
-*/
+// Ruta de inicio
+Route::get('/', [DashboardController::class, 'index'])->name('inicio');
 
-/*Route::get('/', function () {
-    return view('welcome');
-});*/
+// Rutas para secciones
+Route::get('/docentes', [DashboardController::class, 'docentes'])->name('docentes');
+Route::get('/cursos', [DashboardController::class, 'cursos'])->name('cursos');
+Route::get('/topicos', [DashboardController::class, 'topicos'])->name('topicos');
+Route::get('/otros', [DashboardController::class, 'otros'])->name('otros');
+
+Route::view('/docentes', 'docentes');

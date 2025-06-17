@@ -2,18 +2,9 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\DocenteController;
 
-use App\Http\Controllers\DashboardController;
 
-/*
-|--------------------------------------------------------------------------
-| API Routes
-|--------------------------------------------------------------------------
-|
-| Here is where you can register API routes for your application. These
-| routes are loaded by the RouteServiceProvider and all of them will
-| be assigned to the "api" middleware group. Make something great!
-|
-*/
-
-Route::get('/', [DashboardController::class, 'index']);
+Route::get('/docentes', [DocenteController::class, 'index']);
+Route::get('/docentes/{dni}', [DocenteController::class, 'detalle']);
+Route::get('/docentes-filtros', [DocenteController::class, 'filtros']);

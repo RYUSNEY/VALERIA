@@ -13,6 +13,31 @@ class DashboardController extends Controller
 {
     public function index()
     {
+        return view('inicio');
+    }
+
+    public function docentes()
+    {
+        return view('docentes');
+    }
+
+    public function cursos()
+    {
+        return view('cursos');
+    }
+
+    public function topicos()
+    {
+        return view('topicos');
+    }
+
+    public function otros()
+    {
+        return view('otros');
+    }
+    
+    public function xd()
+    {
         // 1. Cursos VRI con conteo de certificados
         $cursos = CursoVRI::select('cursos_vri.id', 'cursos_vri.nombre', DB::raw('COUNT(certificados_otorgados_vri.id_cert) as total_certificados'))
             ->leftJoin('certificados_otorgados_vri', 'cursos_vri.id', '=', 'certificados_otorgados_vri.id_cursos_vri')

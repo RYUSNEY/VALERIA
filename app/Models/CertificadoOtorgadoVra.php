@@ -15,4 +15,8 @@ class CertificadoOtorgadoVra extends Model
     {
         return $this->belongsTo(CursoVra::class, 'id_cursos_vra');
     }
+    public function usuario()
+    {
+        return $this->belongsTo(Usuario::class, 'dni_usuario', 'dni');
+    }
 }

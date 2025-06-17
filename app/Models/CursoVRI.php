@@ -15,4 +15,9 @@ class CursoVri extends Model
     {
         return $this->belongsTo(Topico::class, 'id_topico');
     }
+    public function certificados()
+    {
+        return $this->hasMany(CertificadoOtorgadoVri::class, 'id_cursos_vri');
+    }
+
 }

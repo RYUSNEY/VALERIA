@@ -10,4 +10,9 @@ class Topico extends Model
     protected $table = 'topicos';
     protected $primaryKey = 'id';
     public $timestamps = false;
+
+    public function cursosVri()
+    {
+        return $this->hasMany(CursoVri::class, 'id_topico');
+    }
 }

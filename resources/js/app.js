@@ -8,9 +8,9 @@ import vuetify from './plugins/vuetify'
 import NavBar from './components/NavBar.vue'
 import InicioComponent from './components/InicioComponent.vue'
 import DocentesComponent from './components/DocentesComponent.vue'
-import CursosComponent from './components/CursosComponent.vue'
-import TopicosComponent from './components/TopicosComponent.vue'
-import OtrosComponent from './components/OtrosComponent.vue'
+//import CursosComponent from './components/CursosComponent.vue'
+//import TopicosComponent from './components/TopicosComponent.vue'
+//import OtrosComponent from './components/OtrosComponent.vue'
 
 const app = createApp({})
 
@@ -18,9 +18,9 @@ const app = createApp({})
 app.component('nav-bar', NavBar)
 app.component('inicio-component', InicioComponent)
 app.component('docentes-component', DocentesComponent)
-app.component('cursos-component', CursosComponent)
-app.component('topicos-component', TopicosComponent)
-app.component('otros-component', OtrosComponent)
+//app.component('cursos-component', CursosComponent)
+//app.component('topicos-component', TopicosComponent)
+//app.component('otros-component', OtrosComponent)
 
 app.use(vuetify)
 

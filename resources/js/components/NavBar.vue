@@ -50,10 +50,10 @@ const drawer = ref(false)
 </script>
 
 <style scoped>
-.gap-2 {
-  gap: 0.5rem;
-}
-.gap-4 {
-  gap: 1rem;
-}
+  .gap-2 {
+    gap: 0.5rem;
+  }
+  .gap-4 {
+    gap: 1rem;
+  }
 </style>

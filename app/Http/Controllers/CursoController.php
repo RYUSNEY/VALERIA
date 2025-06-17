@@ -69,18 +69,19 @@ class CursoController extends Controller
     }
     public function getFiltros()
     {
-        // Obtenemos los años distintos de la tabla de cursos VRI.
-        // Usamos DB::raw para asegurar que solo traemos el valor del año.
-        $anios_vri = CursoVri::select(DB::raw('DISTINCT año as valor'))
-            ->whereNotNull('año')
-            ->orderBy('valor', 'desc')
-            ->get()->pluck('valor');
+        // --- OBTENCIÓN DE AÑOS (VRI + VRA) ---
+        $anios_vri = CursoVri::select('año')->whereNotNull('año')->distinct()->pluck('año');
+        $anios_vra = CursoVra::select('año')->whereNotNull('año')->distinct()->pluck('año');
 
-        // Obtenemos todos los tópicos.
+        $todos_los_anios = $anios_vri
+            ->merge($anios_vra)  // Une las dos listas de años.
+            ->unique()           // Elimina cualquier año duplicado.
+            ->sortDesc()         // Ordena la lista final de mayor a menor.
+            ->values();          // Resetea los índices del array para un JSON limpio.
+
         $topicos = Topico::select('id', 'nombre')->orderBy('nombre')->get();
-
         return response()->json([
-            'anios' => $anios_vri,
+            'anios' => $todos_los_anios, // Enviamos la nueva lista combinada y ordenada
             'topicos' => $topicos,
         ]);
     }

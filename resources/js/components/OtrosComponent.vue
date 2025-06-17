@@ -59,9 +59,8 @@
 <script setup>
 import { ref, onMounted, computed } from 'vue';
 import axios from 'axios';
-import VueApexCharts from 'vue3-apexcharts'; // Importamos el componente
+import VueApexCharts from 'vue3-apexcharts';
 
-// Renombramos el componente para usarlo en el template
 const apexchart = VueApexCharts;
 
 const cargando = ref(true);
@@ -106,11 +105,23 @@ const seriesTopicos = computed(() => {
   if (!estadisticas.value) return [];
   return estadisticas.value.topTopicos.map(t => t.total);
 });
+
 const chartOptionsTopicos = computed(() => {
   if (!estadisticas.value) return {};
   return {
     chart: { type: 'donut', height: 350 },
     labels: estadisticas.value.topTopicos.map(t => t.nombre),
+
+    // --- SECCIÓN MODIFICADA ---
+    dataLabels: {
+      enabled: true,
+      formatter: function (val, opts) {
+        const rawValue = opts.w.globals.series[opts.seriesIndex];
+        return `${rawValue} (${val.toFixed(1)}%)`;
+      }
+    },
+    // -------------------------
+
     responsive: [{
       breakpoint: 480,
       options: { chart: { width: 200 }, legend: { position: 'bottom' } }

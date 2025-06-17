@@ -34,23 +34,42 @@ class EstadisticaController extends Controller
 
         // --- 2. Tópicos con más cursos ---
         // (Asumiendo que los tópicos solo se relacionan con cursos_vri)
-        $topTopicos = Topico::withCount('cursosVri')
-            ->orderBy('cursos_vri_count', 'desc')
-            ->take(7) // Tomamos el Top 7 para que quepa bien en un gráfico de dona
-            ->get(['nombre', 'cursos_vri_count as total']);
+        $topicosConteo = Topico::withCount(['cursosVri', 'cursosVra'])->get();
 
-        // --- 3. Años con más cursos ---
-        // (Asumiendo que los años solo están en cursos_vri)
-        $cursosPorAnio = CursoVri::select('año', DB::raw('count(*) as total'))
-            ->whereNotNull('año')
+        // Ahora, sumamos los conteos, ordenamos, y tomamos el Top 7
+        $topTopicos = $topicosConteo->map(function ($topico) {
+            // Creamos una nueva propiedad 'total' con la suma
+            $topico->total = $topico->cursos_vri_count + $topico->cursos_vra_count;
+            return $topico;
+        })
+        ->where('total', '>', 0) // Mostramos solo tópicos que tengan cursos
+        ->sortByDesc('total')
+        ->take(8)
+        ->values() // Resetea los índices para un JSON limpio
+        ->map(function ($topico) { // Devolvemos solo lo que el gráfico necesita
+            return [
+                'nombre' => $topico->nombre,
+                'total' => $topico->total
+            ];
+        });
+
+        // --- 3. Años con más cursos (VRI + VRA) ---
+        $vriQuery = DB::table('cursos_vri')->select('año')->whereNotNull('año');
+        $vraQuery = DB::table('cursos_vra')->select('año')->whereNotNull('año');
+        $unionQuery = $vriQuery->unionAll($vraQuery);
+
+        // Ahora, hacemos una consulta sobre esa lista unida para agrupar y contar
+        $cursosPorAnio = DB::query()
+            ->fromSub($unionQuery, 'todos_los_cursos') // Trata la unión como una tabla temporal
+            ->select('año', DB::raw('count(*) as total'))
             ->groupBy('año')
-            ->orderBy('año', 'asc') // Ordenamos por año para el gráfico de barras
+            ->orderBy('año', 'asc')
             ->get();
 
         return response()->json([
             'topDocentes' => $topDocentes,
             'topTopicos' => $topTopicos,
-            'cursosPorAnio' => $cursosPorAnio,
+            'cursosPorAnio' => $cursosPorAnio, // Enviamos los nuevos datos combinados
         ]);
     }
 }

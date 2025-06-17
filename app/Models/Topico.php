@@ -14,5 +14,10 @@ class Topico extends Model
     public function cursosVri()
     {
         return $this->hasMany(CursoVri::class, 'id_topico');
+    }    
+    public function cursosVra()
+    {
+        // Asume que tienes un modelo CursoVra y la columna id_topico
+        return $this->hasMany(CursoVra::class, 'id_topico');
     }
 }

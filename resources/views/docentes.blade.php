@@ -11,7 +11,7 @@
         <v-app>
             <nav-bar></nav-bar>
             <docentes-component></docentes-component>
-        <v-app>
+        </v-app>
     </div>
 </body>
 </html>

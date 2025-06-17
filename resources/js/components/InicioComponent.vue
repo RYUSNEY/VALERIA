@@ -1,12 +1,21 @@
 <template>
-  <v-app>
-    <NavBar />
-    <v-main class="pa-4">
-      <h1 class="text-h5 text-center">Bienvenido a la Página de Inicio</h1>
-    </v-main>
-  </v-app>
+    <v-container class="mt-10">
+        <v-row justify="center">
+            <v-col cols="12" md="8" class="text-center">
+                <v-card elevation="3" class="pa-6 rounded-xl">
+                    <v-card-title class="text-h5 font-weight-bold">Bienvenidos</v-card-title>
+                    <v-card-text>
+                        Esta es la página principal de la plataforma de certificados.
+                    </v-card-text>
+                </v-card>
+            </v-col>
+        </v-row>
+    </v-container>
 </template>
 
 <script setup>
-import NavBar from './NavBar.vue'
+// No se necesita lógica por ahora
 </script>
+
+<style scoped>
+</style>

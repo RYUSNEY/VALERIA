@@ -10,6 +10,7 @@ import InicioComponent from './components/InicioComponent.vue'
 import DocentesComponent from './components/DocentesComponent.vue'
 import CursosComponent from './components/CursosComponent.vue'
 import OtrosComponent from './components/OtrosComponent.vue'
+import BusquedaComponent from './components/BusquedaComponent.vue'
 //import TopicosComponent from './components/TopicosComponent.vue'
 //import OtrosComponent from './components/OtrosComponent.vue'
 
@@ -22,6 +23,7 @@ app.component('docentes-component', DocentesComponent)
 app.component('cursos-component', CursosComponent)
 //app.component('topicos-component', TopicosComponent)
 app.component('otros-component', OtrosComponent)
+app.component('busqueda-component', BusquedaComponent)
 
 app.use(vuetify)
 

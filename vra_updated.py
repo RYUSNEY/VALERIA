@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import json
 from bs4 import BeautifulSoup
@@ -8,6 +9,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
+# Leer argumentos de línea de comandos
+input_file = sys.argv[1]
+output_file = sys.argv[2]
+
 def buscar_y_extraer_certificados(input_csv, output_json):
     """
     Automatiza la búsqueda de DNIs, extrae los detalles de cada certificado
@@ -15,8 +20,13 @@ def buscar_y_extraer_certificados(input_csv, output_json):
     """
     # --- Configuración de Selenium ---
     options = webdriver.ChromeOptions()
-    #options.add_argument('--headless')
-    #options.add_argument('--log-level=3')
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--window-size=1920,1080')
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
     url = "https://vra-certificados.unap.edu.pe/busqueda"
 
@@ -47,7 +57,7 @@ def buscar_y_extraer_certificados(input_csv, output_json):
             driver.find_element(By.ID, "entrada").click()
 
             # Esperamos un máximo de 5 segundos a que la tabla cargue
-            wait = WebDriverWait(driver, 5)
+            wait = WebDriverWait(driver, 3)
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "tbody tr")))
 
             # Extraer el HTML del <tbody> y analizarlo con BeautifulSoup
@@ -111,6 +121,4 @@ def buscar_y_extraer_certificados(input_csv, output_json):
 
 # Ejecutar la función principal
 if __name__ == "__main__":
-    input_file = 'DNI Docentes.csv'
-    output_file = 'resultados1.json'
     buscar_y_extraer_certificados(input_file, output_file) 

@@ -36,6 +36,7 @@
       <v-btn text class="text-white" href="/docentes">Docentes</v-btn>
       <v-btn text class="text-white" href="/cursos">Cursos</v-btn>
       <v-btn text class="text-white" href="/otros">Información Estadistica</v-btn>
+      <v-btn text class="text-white" href="/busqueda" prepend-icon="mdi-magnify">Búsqueda</v-btn>
     </div>
   </v-app-bar>
 
@@ -51,6 +52,7 @@
       <v-list-item href="/docentes" title="Docentes" prepend-icon="mdi-account" />
       <v-list-item href="/cursos" title="Cursos" prepend-icon="mdi-book" />
       <v-list-item href="/otros" title="Información Estadistica" prepend-icon="mdi-dots-horizontal" />
+      <v-list-item href="/busqueda" title="Búsqueda" prepend-icon="mdi-magnify" />
     </v-list>
   </v-navigation-drawer>
 </template>

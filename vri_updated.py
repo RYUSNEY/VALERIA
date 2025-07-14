@@ -1,3 +1,4 @@
+import sys
 import pandas as pd
 import json
 from bs4 import BeautifulSoup
@@ -8,30 +9,38 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-def buscar_en_vriunap_corregido():
+# Leer argumentos de línea de comandos
+input_file = sys.argv[1]
+output_file = sys.argv[2]
+
+def buscar_en_vriunap_corregido(input_file, output_file):
     """
     Automatiza la búsqueda de DNIs en el portal de vriunap.pe, extrae los detalles
     de cada certificado y guarda los resultados en un archivo JSON.
-    (Versión corregida para el selector del botón de búsqueda).
     """
     # --- Configuración de Selenium ---
     options = webdriver.ChromeOptions()
-    #options.add_argument('--headless')
-    #options.add_argument('--log-level=3')
+    options.add_argument('--headless')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--disable-gpu')
+    options.add_argument('--window-size=1920,1080')
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36')
     driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()), options=options)
     
     url = "https://vriunap.pe/cursos/"
 
     # --- Lectura del archivo CSV ---
     try:
-        df = pd.read_csv('DNI Docentes.csv', dtype={'dni': str})
+        df = pd.read_csv(input_file, dtype={'dni': str})
         dnis = df['dni'].tolist()
     except FileNotFoundError:
-        print("Error: No se encontró el archivo 'DNI Docentes.csv'.")
+        print(f"Error: No se encontró el archivo '{input_file}'.")
         driver.quit()
         return
     except KeyError:
-        print("Error: El archivo 'documentos.csv' debe tener una columna llamada 'dni'.")
+        print("Error: El archivo debe tener una columna llamada 'dni'.")
         driver.quit()
         return
 
@@ -42,7 +51,7 @@ def buscar_en_vriunap_corregido():
     for dni in dnis:
         try:
             driver.get(url)
-            wait = WebDriverWait(driver, 10)
+            wait = WebDriverWait(driver, 3)
 
             # 1. Hacer clic en la opción "Buscar" del menú
             menu_buscar = wait.until(EC.element_to_be_clickable((By.XPATH, "//a[@onclick=\"loadWeb('dvBody','web/mnuBuscar')\"]")))
@@ -53,7 +62,6 @@ def buscar_en_vriunap_corregido():
             input_dni.send_keys(dni)
             
             # 3. Hacer clic en el botón de búsqueda (SELECTOR CORREGIDO)
-            # Se busca un botón que contenga el texto "Buscar" en su interior.
             boton_buscar = driver.find_element(By.XPATH, "//button[@type='submit' and contains(., 'Buscar')]")
             boton_buscar.click()
             
@@ -111,11 +119,10 @@ def buscar_en_vriunap_corregido():
     driver.quit()
 
     # --- Guardar los resultados en un archivo JSON ---
-    output_filename = 'resultados_vriunap.json'
-    with open(output_filename, 'w', encoding='utf-8') as f:
+    with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(resultados_finales, f, ensure_ascii=False, indent=4)
 
-    print(f"\n¡Proceso finalizado! Los resultados se han guardado en el archivo '{output_filename}'")
+    print(f"\n¡Proceso finalizado! Los resultados se han guardado en el archivo '{output_file}'")
 
 if __name__ == "__main__":
-    buscar_en_vriunap_corregido() 
+    buscar_en_vriunap_corregido(input_file, output_file) 
